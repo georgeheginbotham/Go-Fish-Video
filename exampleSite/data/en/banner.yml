@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Story-Driven Videos"
-  content : "Go Fish Video is a video production company based in Los Angeles serving brands and agencies nationwide"
+  content : "For agencies, brands, product marketers, and cooperates nationwide"
   button:
     enable : true
     label : "Portfolio"
