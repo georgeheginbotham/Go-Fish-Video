@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Story-Driven Videos"
-  content : "For agencies, brands, product marketers, and cooperates nationwide"
+  title : "Story-Driven Videos For Brands & Products"
+  content : "Let's Make Something Beautiful Together"
   button:
     enable : true
     label : "Portfolio"
