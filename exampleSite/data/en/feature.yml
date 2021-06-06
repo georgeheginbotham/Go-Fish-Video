@@ -8,15 +8,15 @@ feature:
   feature_item : 
       # feature item loop
     - title : Creative
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
       content : First, we get creative and figure out exactly how to introduce your product or service . From there, we develop an outline, script, and execution plan
       
       # feature item loop
     - title : Produce
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      icon : ti-video-camera # themify icon pack : https://themify.me/themify-icons
       content : Our team of writers, directors, producers, designers, actors, and crew fuses our visions. Then we produce! With camera and audio gear of the highest caliber and create a magical story.
 
       # feature item loop
     - title : Edit
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       content : Last, we edit. Constructing our footage into its final form. Adding advanced visual effects, sound design and mixing, music, and color grading.
