@@ -9,7 +9,7 @@ portfolio:
       image_webp : images/portfolio/portfolio-1.webp
       categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+      link : "https://www.youtube.com/embed/mrvWHfH5pm0"
       
     # portfolio item loop
     - name : Sound system
