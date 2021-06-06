@@ -6,7 +6,7 @@
 
 <section class="hero-area">
 	<video src="https://css-tricks-post-videos.s3.us-east-1.amazonaws.com/blurry-trees.mov" autoplay loop playsinline muted></video>
-<header class="viewport-header">
+<div class="block">
 		<h1>{{ .title | markdownify }}</h1>
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
@@ -14,7 +14,7 @@
 		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
 		{{ end }}
 		{{ end }}
-</header>
+</div>
 </section>
 {{"<!-- /Welcome Slider-->" | safeHTML}}
 {{end}}
