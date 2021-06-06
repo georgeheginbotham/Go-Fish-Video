@@ -5,72 +5,96 @@ portfolio:
   portfolio_item :
     # portfolio item loop
     - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
+      image : images/portfolio/Versa-Desk.jpg
+      image_webp : images/portfolio/Versa-Desk.webp
       categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://www.youtube.com/embed/mrvWHfH5pm0"
       
     # portfolio item loop
     - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
+      image : images/portfolio/Neo-Volta.jpg
+      image_webp : images/portfolio/Neo-Volta.webp
       categories : ["development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
       
     # portfolio item loop
     - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
+      image : images/portfolio/Morongo-Pink-Coffee.jpg
+      image_webp : images/portfolio/Morongo-Pink-Coffee.webp
       categories : ["design", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
+      image : images/portfolio/Kimberly-Parry-Organics.jpg
+      image_webp : images/portfolio/Kimberly-Parry-Organics.webp
       categories : ["photography", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
+      image : images/portfolio/Eternal-Kings.jpg
+      image_webp : images/portfolio/Eternal-Kings.webp
       categories : ["design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
+      image : images/portfolio/Caesarstone.jpg
+      image_webp : images/portfolio/Caesarstone.webp
       categories : ["photography"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
+      image : images/portfolio/Quanta.jpg
+      image_webp : images/portfolio/Quanta.webp
       categories : ["development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
+      image : images/portfolio/Eurocuisine.jpg
+      image_webp : images/portfolio/Eurocuisine.webp
       categories : ["design", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
     - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
+      image : images/portfolio/Triad-Pro-Innovators.jpg
+      image_webp : images/portfolio/Triad-Pro-Innovators.webp
+      categories : ["design", "photography"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+          # portfolio item loop
+    - name : Tag Design
+      image : images/portfolio/Blue-Can-Water.jpg
+      image_webp : images/portfolio/Blue-Can-Water.webp
+      categories : ["design", "photography"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+          # portfolio item loop
+    - name : Tag Design
+      image : images/portfolio/Marriott-Wailea.jpg
+      image_webp : images/portfolio/Marriott-Wailea.webp
+      categories : ["design", "photography"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+          # portfolio item loop
+    - name : Tag Design
+      image : images/portfolio/YouLab.jpg
+      image_webp : images/portfolio/YouLab.webp
       categories : ["design", "photography"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
