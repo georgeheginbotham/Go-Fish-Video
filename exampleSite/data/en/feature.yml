@@ -1,8 +1,8 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
+  image : images/about/Go-Fish-Video-Production.jpg
+  image_webp : images/about/Go-Fish-Video-Production.webp
   title : Video Production Company Based in Los Angeles.
   content : "We're a full-service video production company, which means we have the know-how and tools to handle your project from start to finish. From scriptwriting to special effects, we'll work diligently with your team in turning your vision into a beautiful thing."
   feature_item : 
