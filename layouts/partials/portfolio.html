@@ -47,8 +47,7 @@
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 					<div class="caption">
-						<a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .link | safeURL }}"
-							data-lightbox="image-1">
+						<a href="{{ .link | safeURL }}">
 							<i class="ti-search"></i>
 						</a>
 						<h4 class="mt-3">
