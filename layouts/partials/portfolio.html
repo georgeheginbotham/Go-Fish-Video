@@ -47,7 +47,7 @@
 				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 					<div class="caption">
-						<a href="{{ .link | safeURL }}">
+						<a href="{{ .link | safeURL }}" data-vbtype="video">
 							<i class="ti-search"></i>
 						</a>
 						<h4 class="mt-3">
