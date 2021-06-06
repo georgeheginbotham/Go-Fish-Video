@@ -50,7 +50,7 @@ link = "plugins/venobox/venobox.min.js"
 
 [[Languages.en.menu.main]]
 name = "About"
-url = "#feautres"
+url = "#feautre"
 weight = 1
 
 [[Languages.en.menu.main]]
@@ -64,14 +64,9 @@ url = "#team"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 4
-
-[[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 5
+weight = 4
 
 ############################# Default Parameters ##########################
 [params]
@@ -96,7 +91,7 @@ expire_days = 2
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "IzaSyBXhrEjfhGTewWa5fpYXXFHqfHxF03RZjQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
