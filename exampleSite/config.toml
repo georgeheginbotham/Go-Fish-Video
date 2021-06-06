@@ -47,87 +47,31 @@ link = "plugins/google-map/map.js"
 link = "plugins/venobox/venobox.min.js"
 
 ################### English Navigation ########################
-[[Languages.en.menu.main]]
-name = "about"
-url = "#about"
-weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
-url = "#services"
-weight = 2
+name = "About"
+url = "#feautres"
+weight = 1
 
 [[Languages.en.menu.main]]
 name = "portfolio"
 url = "#portfolio"
-weight = 3
+weight = 2
 
 [[Languages.en.menu.main]]
 name = "team"
 url = "#team"
-weight = 4
-
-[[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-
-[[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-
-[[Languages.en.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
-
-
-################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "sur"
-url = "#about"
-weight = 1
-
-[[Languages.fr.menu.main]]
-name = "un service"
-url = "#services"
-weight = 2
-
-[[Languages.fr.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
 weight = 3
 
-[[Languages.fr.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 5
-
-[[Languages.fr.menu.main]]
+[[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
-weight = 6
+weight = 4
 
-[[Languages.fr.menu.main]]
+[[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 7
-
-[[Languages.fr.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+weight = 5
 
 ############################# Default Parameters ##########################
 [params]
@@ -152,7 +96,7 @@ expire_days = 2
 
 # google map
 [params.map]
-enable = false
+enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
