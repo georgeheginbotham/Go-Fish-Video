@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Meghna"
+title = "Go Fish Video"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
@@ -10,7 +10,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+disableLanguages = [true]
 
 ############################# Plugins ##########################
 # css plugins
