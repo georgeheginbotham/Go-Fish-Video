@@ -1,11 +1,11 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-white-wall.jpg"
-  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "The Catch?"
-  content : "There is no catch. With our squad of creatives, we manage the workflow from pre- to post-production, guaranteeing that our modern, tailored approach turns your greatest ideas into a reality."
+  bg_image : "images/backgrounds/Go-Fish-Video-Website-Background.jpg"
+  bg_image_webp : "images/backgrounds/Go-Fish-Video-Website-Background.webp"
+  title : "THE CATCH?"
+  content : "There is no catch... With our squad of creatives, we manage the workflow from pre- to post-production, guaranteeing that our modern, tailored approach turns your greatest ideas into a reality."
   button:
-    enable : true
+    enable : false
     label : "Start a project with us"
     link : "#contact"
