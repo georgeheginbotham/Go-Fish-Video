@@ -63,6 +63,14 @@ pre {
   align-items: center;
   justify-content: center;
 }
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
 hr {
   border-top: 1px solid rgba(255, 255, 255, .1);
 }
