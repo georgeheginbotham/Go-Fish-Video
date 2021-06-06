@@ -638,18 +638,16 @@ a:hover {
 /*=================================================================
  Call To Action 1
 ==================================================================*/
-.call-to-action {
-  background-attachment: fixed;
-}
+
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #444;
+  color: #000000;
 }
 
 .call-to-action p {
   font-size: 16px;
-  color: #666;
+  color: #000000;
 }
 
 .call-to-action .btn-main {
