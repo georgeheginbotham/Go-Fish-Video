@@ -4,16 +4,9 @@
 {{ with $data.banner.banner }}
 {{"<!-- Welcome Slider-->" | safeHTML}}
 
-
 <section class="hero-area">
-<video src="https://css-tricks-post-videos.s3.us-east-1.amazonaws.com/blurry-trees.mov" autoplay loop playsinline muted></video>
+	<video src="https://css-tricks-post-videos.s3.us-east-1.amazonaws.com/blurry-trees.mov" autoplay loop playsinline muted></video>
 
-	<div class="block">
-		{{ if .icon }}
-		<div class="video-button">
-			<i class="{{ .icon }}"></i>
-		</div>
-		{{ end }}
 		<h1>{{ .title | markdownify }}</h1>
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
@@ -21,7 +14,7 @@
 		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>
 		{{ end }}
 		{{ end }}
-	</div>
+
 </section>
 {{"<!-- /Welcome Slider-->" | safeHTML}}
 {{end}}
