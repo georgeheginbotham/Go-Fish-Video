@@ -1,7 +1,5 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.portfolio.portfolio.enable }}
-{{ with $data.portfolio.portfolio }}
 {{"<!-- Portfolio Section -->" | safeHTML}}
 <section class="portfolio section" id="portfolio">
 	<div class="container">
@@ -39,5 +37,4 @@
 	</div>
 </section>
 {{"<!-- /Portfolio -->" | safeHTML}}
-{{ end }}
 {{ end }}
