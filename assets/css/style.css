@@ -55,22 +55,16 @@ pre {
   color: #fff;
   background: #57cbcc;
 }
-.viewport-header {
-  position: relative;
-  height: 100vh;
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+
 video {
-  object-fit: cover;
+  object-fit: absolute;
   width: 100vw;
   height: 100vh;
   position: fixed;
   top: 0;
   left: 0;
 }
+
 hr {
   border-top: 1px solid rgba(255, 255, 255, .1);
 }
