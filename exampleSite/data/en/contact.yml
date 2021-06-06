@@ -3,21 +3,18 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  content : With our squad of creatives, we manage the workflow from pre- to post-production, guaranteeing that our modern, tailored approach turns your greatest ideas into a reality.
 
   # Contact details
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      info : "400 S. Main St. #701 Los Angeles, CA 90013"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+      info : "Phone: 310-927-5016"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: info@gofishvideo"
 
 
   # Contact form
@@ -26,6 +23,6 @@ contact:
     form_action : "#" #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"
-    subject : "Subject"
-    message : "Message"
+    subject : "Company"
+    message : "Tell us about your project"
     submit : "Submit"
