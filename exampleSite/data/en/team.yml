@@ -8,7 +8,7 @@ team:
       image_webp : images/team/Sasha-Shemirani.webp
       image : images/team/Sasha-Shemirani.jpg
       designation : Founder/Creative Director
-      content : With a discerning artist’s eye and clear-cut creative vision, Founder and Creative Director Sasha Shemirani is Go Fish’s lead creative. Overseeing the creative process on every step of every project, Sasha’s greatest talent is utilizing the individual strengths he and his team possess to deliver excellent products.
+      content : With a discerning artist’s eye and clear-cut creative vision, Founder and Creative Director Sasha Shemirani is Go Fish’s lead creative. He oversees the creative process on every step of every project. Sasha’s greatest talent is utilizing the individual strengths of himself and his team to deliver excellent products.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
@@ -18,27 +18,37 @@ team:
       image_webp : images/team/Paul-Elia.webp
       image : images/team/Paul-Elia.jpg
       designation : Creative Director
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+      content : Best known for his recurring roles on Conan, and self-produced outdoor comedy show, Lowkey Outside, have put Paul on both sides of the camera. A writer, actor, comedian, director, and more. His unique experiences allow him to consider all stages of a project. His keen, refreshing perspective guarantees us to win the hearts of audiences everywhere.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
         
     # team member loop
-    - name : Michael Jonson
-      image_webp : images/team/team-3.webp
-      image : images/team/team-3.jpg
-      designation : Web Developer
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Eric Curtis
+      image_webp : images/team/Eric-Curtis.webp
+      image : images/team/Eric-Curtis.jpg
+      designation : Cinematographer
+      content : Eric has photographed some of the most well known celebrities, athletes, and musicians to date. His lighting expertise is comparable to none, and his one-of-a-kind style is instantly recognized . Outside of Go Fish, Eric enjoys cheap sushi on a night in and is an avid Puma collector.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
         
     # team member loop
-    - name : Mo. Kha. Alamgir
-      image_webp : images/team/team-4.webp
-      image : images/team/team-4.jpg
-      designation : SEO Specialist
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    - name : Xin Ma
+      image_webp : images/team/Xin-Ma.webp
+      image : images/team/Xin-Ma.jpg
+      designation : Graphic Designer
+      content : A proud plant mom, cat-lover and noodle enthusiast, Xin Ma’s graphic design skills bring a necessary element to Go Fish’s creative process. She believes that great design is not only clean and fun but that it also solves complex problems in our everyday lives.
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+                  
+    # team member loop
+    - name : Melissa Oakley
+      image_webp : images/team/Melissa-Oakley.webp
+      image : images/team/Melissa-Oakley.jpg
+      designation : Motion Graphics Artist
+      content :  Melissa Oakley is a young prodigy who, at a young age, has already worked with iconic institutions ranging from ESPN to Activision. Her creative abilities range from avant-garde and cerebral to clean and corporate-approved. Melissa’s invaluable contributions are the final stamp of approval, the finishing touch to every Go Fish project.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
