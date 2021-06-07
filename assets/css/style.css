@@ -335,9 +335,6 @@ a:hover {
   background: #080808;
 }
 
-.overly {
-  position: relative;
-}
 
 .overly:before {
   content: '';
