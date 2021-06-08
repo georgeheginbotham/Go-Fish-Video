@@ -1,0 +1,10 @@
+cta2:
+  enable : true
+  bg_image : "images/backgrounds/Go-Fish-Video-Website-Background.jpg"
+  bg_image_webp : "images/backgrounds/Go-Fish-Video-Website-Background.webp"
+  title : "Commerical Videos"
+  content : "For products & brands"
+  button:
+    enable : true
+    label : "Start a project with us"
+    link : "#contact"
