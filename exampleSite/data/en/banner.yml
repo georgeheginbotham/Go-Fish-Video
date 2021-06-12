@@ -4,8 +4,8 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Commerical Videos for Products & Brands "
-  content : "Let's Make Something Beautiful Together"
+  title : "Commerical Videos for Products & Brands"
+  content : ""
   button:
     enable : true
     label : "Portfolio"
