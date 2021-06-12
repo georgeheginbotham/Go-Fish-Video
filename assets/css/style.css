@@ -14,7 +14,7 @@ html {
 
 @font-face {
 font-family: "CustomFont";
-src: url('../assets/fonts/piersans-regular-webfont.woff') format('woff');
+src: url('../piersans-regular-webfont.woff') format('woff');
 	    font-weight: normal;
     font-style: normal;
 }
