@@ -109,7 +109,6 @@ a:hover {
 .btn {
   background-color: transparent;
   color: #fff;
-  padding: 8px 20px;
   transition: all .3s ease-in 0s;
 }
 
