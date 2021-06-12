@@ -49,22 +49,22 @@ link = "plugins/venobox/venobox.min.js"
 ################### English Navigation ########################
 
 [[Languages.en.menu.main]]
-name = "About"
+name = "ABOUT"
 url = "#feautre"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "portfolio"
+name = "PORTFOLIO"
 url = "#portfolio"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "team"
+name = "TEAM"
 url = "#team"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "contact"
+name = "CONTACT"
 url = "#contact"
 weight = 4
 
