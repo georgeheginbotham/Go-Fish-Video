@@ -12,6 +12,11 @@ html {
   color: #737f8a;
 }
 
+@font-face {
+font-family: "CustomFont";
+src: url("../assets/fonts/PierSans-Regular.woff") format("woff");
+}
+
 body {
   background-color: #080808;
   font-family: "pier-sans-regular", pier sans;
