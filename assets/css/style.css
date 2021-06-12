@@ -130,7 +130,7 @@ a:hover {
 }
 
 .border-meghna {
-  border-top: 1px solid rgba(255 255 255 / 82%);
+  border-top: 1px solid #ffffff40;
   height: 1px;
   margin: 15px auto 0;
   position: relative;
@@ -142,7 +142,7 @@ a:hover {
   content: '';
   height: 6px;
   left: 50%;
-  margin-left: -20px;
+  margin-left: -22px;
   position: absolute;
   top: -4px;
   width: 50px;
