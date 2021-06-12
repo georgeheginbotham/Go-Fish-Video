@@ -8,5 +8,5 @@ banner:
   content : "Let's Make Something Beautiful Together"
   button:
     enable : true
-    label : "Get Quote"
-    link : "#contact"
+    label : "Portfolio"
+    link : "#portfolio"
