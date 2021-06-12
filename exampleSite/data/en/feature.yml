@@ -7,16 +7,16 @@ feature:
   content : "We're a full-service video production company, which means we have the know-how and tools to handle your project from start to finish. From scriptwriting to special effects, we'll work diligently with your team in turning your vision into a beautiful thing."
   feature_item : 
       # feature item loop
-    - title : Creative
+    - title : Conceptualize
       icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
       content : First, we get creative and figure out exactly how to introduce your product or service . From there, we develop an outline, script, and execution plan
       
       # feature item loop
-    - title : Produce
+    - title : Compose
       icon : ti-video-camera # themify icon pack : https://themify.me/themify-icons
       content : Our team of writers, directors, producers, designers, actors, and crew fuses our visions. Then we produce! With camera and audio gear of the highest caliber and create a magical story.
 
       # feature item loop
-    - title : Edit
+    - title : Complete
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       content : Last, we edit. Constructing our footage into its final form. Adding advanced visual effects, sound design and mixing, music, and color grading.
