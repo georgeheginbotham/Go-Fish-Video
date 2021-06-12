@@ -123,7 +123,6 @@ a:hover {
 .btn-transparent:hover,
 .btn-transparent:focus {
   background-color: #fff;
-  border: 1px solid transparent;
   color: #000000;
 }
 
