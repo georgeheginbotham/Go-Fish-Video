@@ -106,13 +106,13 @@ a:hover {
 }
 
 .btn {
-  background-color: #fff;
-  color: #00000;
+  background-color: transparent;
+  color: #fff;
   transition: all .3s ease-in 0s;
 }
 
 .btn:focus {
-  color: #ddd;
+
 }
 
 .btn-transparent {
