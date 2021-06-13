@@ -8,93 +8,93 @@ portfolio:
       image : images/portfolio/Versa-Desk.jpg
       image_webp : images/portfolio/Versa-Desk.webp
       categories : ["commericals"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://www.youtube.com/embed/mrvWHfH5pm0"
+      content : Sit Happens
+      link : "https://www.youtube.com/embed/FfPPP37Ejx0"
       
     # portfolio item loop
-    - name : Sound system
+    - name : Neo Volta
       image : images/portfolio/Neo-Volta.jpg
       image_webp : images/portfolio/Neo-Volta.webp
-      categories : ["development"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : ""
+      categories : ["commericals"]
+      content : Power Your Life
+      link : "https://www.youtube.com/embed/U06mg9cudo0"
       
     # portfolio item loop
-    - name : Clock Product
+    - name : Morongo Pink Coffee
       image : images/portfolio/Morongo-Pink-Coffee.jpg
       image_webp : images/portfolio/Morongo-Pink-Coffee.webp
-      categories : ["design", "development"]
+      categories : ["commericals"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "https://www.youtube.com/embed/kCPJ2HYsOVA"
       
     # portfolio item loop
-    - name : Bottol Label
+    - name : Kimberly Parry Organics
       image : images/portfolio/Kimberly-Parry-Organics.jpg
       image_webp : images/portfolio/Kimberly-Parry-Organics.webp
-      categories : ["photography", "development"]
+      categories : ["commericals"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "https://www.youtube.com/embed/jqoTiv66hsA"
       
     # portfolio item loop
-    - name : Shopping Bag
+    - name : Eternal Kings
       image : images/portfolio/Eternal-Kings.jpg
       image_webp : images/portfolio/Eternal-Kings.webp
-      categories : ["design"]
+      categories : ["commericals"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "https://www.youtube.com/embed/zJESSrx0Tw8"
       
     # portfolio item loop
-    - name : Tag Design
+    - name : Caesarstone
       image : images/portfolio/Caesarstone.jpg
       image_webp : images/portfolio/Caesarstone.webp
-      categories : ["photography"]
+      categories : ["commericals"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "https://www.youtube.com/embed/px8H3C_UHxw"
       
     # portfolio item loop
-    - name : Business Card
+    - name : Quanta
       image : images/portfolio/Quanta.jpg
       image_webp : images/portfolio/Quanta.webp
-      categories : ["development"]
+      categories : ["commericals"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "https://www.youtube.com/embed/NtZ2HInBoqQ"
       
     # portfolio item loop
-    - name : Stationary Design
+    - name : Eurocuisine
       image : images/portfolio/Eurocuisine.jpg
       image_webp : images/portfolio/Eurocuisine.webp
-      categories : ["design", "development"]
+      categories : ["commericals"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "https://www.youtube.com/embed/-Ax0_L9UDSM"
       
     # portfolio item loop
-    - name : Tag Design
+    - name : Triad Pro Innovators
       image : images/portfolio/Triad-Pro-Innovators.jpg
       image_webp : images/portfolio/Triad-Pro-Innovators.webp
-      categories : ["design", "photography"]
+      categories : ["commericals"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "https://www.youtube.com/embed/G3iFkNnR-SY"
       
           # portfolio item loop
-    - name : Tag Design
+    - name : Blue Can Water
       image : images/portfolio/Blue-Can-Water.jpg
       image_webp : images/portfolio/Blue-Can-Water.webp
-      categories : ["design", "photography"]
+      categories : ["commericals"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "https://www.youtube.com/embed/PMO485U1qXE"
       
           # portfolio item loop
-    - name : Tag Design
+    - name : Marriott Wailea
       image : images/portfolio/Marriott-Wailea.jpg
       image_webp : images/portfolio/Marriott-Wailea.webp
-      categories : ["design", "photography"]
+      categories : ["commericals"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "https://www.youtube.com/embed/7PLvF0E1rDM"
       
           # portfolio item loop
-    - name : Tag Design
+    - name : YouLab
       image : images/portfolio/YouLab.jpg
       image_webp : images/portfolio/YouLab.webp
-      categories : ["design", "photography"]
+      categories : ["commericals"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "https://www.youtube.com/embed/bkjk56ssgKA"
