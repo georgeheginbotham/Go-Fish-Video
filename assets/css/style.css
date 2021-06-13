@@ -106,8 +106,8 @@ a:hover {
 }
 
 .btn {
-  background-color: transparent;
-  color: #fff;
+  background-color: #fff;
+  color: #00000;
   transition: all .3s ease-in 0s;
 }
 
@@ -116,13 +116,11 @@ a:hover {
 }
 
 .btn-transparent {
-  border: 1px solid #4e595f;
+  border: 2px solid #4e595f;
 }
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #fff;
-  color: #000000;
 }
 
 .border-meghna {
@@ -876,8 +874,8 @@ a:hover {
 
 .portfolio-block:before {
   transition: all 0.3s ease-in-out;
-   background-image: url(../images/backgrounds/portfolio-background.jpg);
-	background-size: contain;
+  background-image: url(../images/backgrounds/portfolio-background.jpg);
+  background-size: contain;
   opacity: 0;
   top: 20px;
   right: 20px;
