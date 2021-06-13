@@ -24,7 +24,7 @@ portfolio:
       image : images/portfolio/Morongo-Pink-Coffee.jpg
       image_webp : images/portfolio/Morongo-Pink-Coffee.webp
       categories : ["commericals"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Morongo Resort & Casino
       link : "https://www.youtube.com/embed/kCPJ2HYsOVA"
       
     # portfolio item loop
@@ -32,7 +32,7 @@ portfolio:
       image : images/portfolio/Kimberly-Parry-Organics.jpg
       image_webp : images/portfolio/Kimberly-Parry-Organics.webp
       categories : ["commericals"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Beauty is Organic
       link : "https://www.youtube.com/embed/jqoTiv66hsA"
       
     # portfolio item loop
@@ -40,7 +40,7 @@ portfolio:
       image : images/portfolio/Eternal-Kings.jpg
       image_webp : images/portfolio/Eternal-Kings.webp
       categories : ["commericals"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Promotional Video 
       link : "https://www.youtube.com/embed/zJESSrx0Tw8"
       
     # portfolio item loop
@@ -48,7 +48,7 @@ portfolio:
       image : images/portfolio/Caesarstone.jpg
       image_webp : images/portfolio/Caesarstone.webp
       categories : ["commericals"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Living with my Caesarstone
       link : "https://www.youtube.com/embed/px8H3C_UHxw"
       
     # portfolio item loop
@@ -56,7 +56,7 @@ portfolio:
       image : images/portfolio/Quanta.jpg
       image_webp : images/portfolio/Quanta.webp
       categories : ["commericals"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Couples Therapy
       link : "https://www.youtube.com/embed/NtZ2HInBoqQ"
       
     # portfolio item loop
@@ -64,7 +64,7 @@ portfolio:
       image : images/portfolio/Eurocuisine.jpg
       image_webp : images/portfolio/Eurocuisine.webp
       categories : ["commericals"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Dear Mom
       link : "https://www.youtube.com/embed/-Ax0_L9UDSM"
       
     # portfolio item loop
@@ -72,7 +72,7 @@ portfolio:
       image : images/portfolio/Triad-Pro-Innovators.jpg
       image_webp : images/portfolio/Triad-Pro-Innovators.webp
       categories : ["commericals"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Our Today is your Tomorrow
       link : "https://www.youtube.com/embed/G3iFkNnR-SY"
       
           # portfolio item loop
@@ -80,7 +80,7 @@ portfolio:
       image : images/portfolio/Blue-Can-Water.jpg
       image_webp : images/portfolio/Blue-Can-Water.webp
       categories : ["commericals"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : It's an Emergency
       link : "https://www.youtube.com/embed/PMO485U1qXE"
       
           # portfolio item loop
@@ -88,7 +88,7 @@ portfolio:
       image : images/portfolio/Marriott-Wailea.jpg
       image_webp : images/portfolio/Marriott-Wailea.webp
       categories : ["commericals"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Stay in Paradise
       link : "https://www.youtube.com/embed/7PLvF0E1rDM"
       
           # portfolio item loop
@@ -96,5 +96,5 @@ portfolio:
       image : images/portfolio/YouLab.jpg
       image_webp : images/portfolio/YouLab.webp
       categories : ["commericals"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Ageless Living
       link : "https://www.youtube.com/embed/bkjk56ssgKA"
