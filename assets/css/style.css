@@ -876,7 +876,7 @@ a:hover {
 
 .portfolio-block:before {
   transition: all 0.3s ease-in-out;
-  background: white;
+   background-image: url(../images/backgrounds/portfolio-background.jpg);
   opacity: 0;
   top: 20px;
   right: 20px;
