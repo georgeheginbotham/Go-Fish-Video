@@ -892,7 +892,7 @@ a:hover {
 }
 
 .portfolio-block:hover:before {
-  opacity: 1;
+  opacity: 0.75;
 }
 
 .portfolio-block:hover .caption h4 {
