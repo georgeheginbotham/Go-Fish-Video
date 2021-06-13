@@ -4,10 +4,10 @@ portfolio:
   title : Our Projects
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : Versa Desk
       image : images/portfolio/Versa-Desk.jpg
       image_webp : images/portfolio/Versa-Desk.webp
-      categories : ["design"]
+      categories : ["commericals"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://www.youtube.com/embed/mrvWHfH5pm0"
       
