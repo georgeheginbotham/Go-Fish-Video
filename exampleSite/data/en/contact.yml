@@ -3,7 +3,7 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : Need our video production services? Get in touch!
+  content : Need video production services? Get in touch!
 
   # Contact details
   contact_list:
