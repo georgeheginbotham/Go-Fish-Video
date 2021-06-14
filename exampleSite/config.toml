@@ -23,7 +23,7 @@ link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
-link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+link = "https://fonts.googleapis.com/css?family=PT%20Sans:400,700&display=swap"
 [[params.plugins.css]]
 link = "plugins/venobox/venobox.css"
 
