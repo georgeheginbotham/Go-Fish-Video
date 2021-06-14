@@ -10,7 +10,7 @@
 	<div class="block">
 		<h3 style="margin-bottom: -15px;">{{ .title | markdownify }}</h3>
 				 <img src="/images/Go-Fish-Logo-Front-Page.png" alt="Go Fish Video The Catch" width="600">
-		<p>{{ .content | markdownify }}</p>
+		<p style="margin-top: 10px">{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
 		<a class="venobox btn btn-transparent page-scroll" data-autoplay="true" data-vbtype="video" href="{{ .link | safeURL }}">{{ .label }}</a>
