@@ -8,6 +8,7 @@
 				{{ site.Title }}
 				{{ end }}
 			</a>
+
 			<button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
@@ -17,7 +18,7 @@
 					{{ range site.Menus.main }}
 					<li class="nav-item">
             <a class="nav-link" {{if findRE `^http` .URL}}target="_blank"{{end}}
-						href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}"><b>{{ .Name }}</b></a>
+						href="{{if findRE `^#` .URL}}{{if not $.IsHome}}{{site.BaseURL | relLangURL}}{{end}}{{ .URL }}{{else}}{{.URL | relLangURL}}{{end}}">{{ .Name }}</a>
 					</li>
 					{{ end }}
 				</ul>
