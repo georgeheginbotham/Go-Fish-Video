@@ -13,7 +13,7 @@
 		<p>{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
-		<a class="venobox" data-autoplay="true" data-vbtype="video" href="{{ .link | safeURL }}">{{ .label }}</a>
+		<a class="venobox btn btn-transparent page-scroll" data-autoplay="true" data-vbtype="video" href="{{ .link | safeURL }}">{{ .label }}</a>
 		{{ end }}
 		{{ end }}
 	</div>
