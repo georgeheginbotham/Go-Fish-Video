@@ -4,9 +4,9 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Commerical Videos for Products & Brands"
-  content : ""
+  title : ""
+  content : "Commerical Videos for Products & Brands"
   button:
     enable : true
     label : "Portfolio"
-    link : "#portfolio"
+    link : "https://www.youtube.com/embed/qf5UogAiYMg"
