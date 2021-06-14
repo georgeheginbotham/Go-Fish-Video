@@ -692,7 +692,7 @@ a:hover {
   border-radius: 0;
   padding: 5px 10px;
   color: #ddd;
-  border: 1px solid rgb(236 239 241 / 76%);
+  border: 1px solid white;
 }
 
 .form-meghna .form-control:focus {
