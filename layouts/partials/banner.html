@@ -8,11 +8,6 @@
 	<img class="d-none" src="{{ .bg_image_webp | absURL }}" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'"/>
 
 	<div class="block">
-		{{ if .icon }}
-		<div class="video-button">
-			<i class="{{ .icon }}"></i>
-		</div>
-		{{ end }}
 		<h3>{{ .title | markdownify }}</h3>
 				 <img src="/images/Go-Fish-Logo-Front-Page.png" alt="Go Fish Video The Catch" width="600">
 		<p>{{ .content | markdownify }}</p>
