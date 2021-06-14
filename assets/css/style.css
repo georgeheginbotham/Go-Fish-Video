@@ -14,7 +14,7 @@ html {
 
 body {
   background-color: #080808;
-  /*font-family: "pier-sans-regular", pier sans;*/
+    font-family: 'PT Sans';
   color: #ffffff;
   -webkit-font-smoothing: antialiased;
 }
@@ -26,12 +26,12 @@ h4,
 h5,
 h6 {
   font-weight: 400;
-/*  font-family: sans-serif;*/
+    font-family: 'PT Sans';
   color: #ffffff;
 }
 
 p {
-/*  font-family: "pier-sans-regular", pier sans;*/
+    font-family: 'PT Sans';
 }
 
 [scroll-behavior=smooth] {
