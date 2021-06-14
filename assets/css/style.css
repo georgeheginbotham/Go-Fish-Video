@@ -14,7 +14,7 @@ html {
 
 body {
   background-color: #080808;
-    font-family: 'PT Sans';
+ font-family: "Quattrocento Sans", sans-serif;
   color: #ffffff;
   -webkit-font-smoothing: antialiased;
 }
@@ -26,12 +26,12 @@ h4,
 h5,
 h6 {
   font-weight: 400;
-    font-family: 'PT Sans';
+ font-family: "Quattrocento Sans", sans-serif;
   color: #ffffff;
 }
 
 p {
-    font-family: 'PT Sans';
+ font-family: "Quattrocento Sans", sans-serif;
 }
 
 [scroll-behavior=smooth] {
