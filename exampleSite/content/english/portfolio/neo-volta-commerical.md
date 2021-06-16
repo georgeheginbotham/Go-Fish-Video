@@ -1,34 +1,33 @@
 ---
-title: Versa Desk
+title: Neo Volta
 date: 
-image_webp: "/images/portfolio/Versa-Desk.webp"
-image: "/images/portfolio/Versa-Desk.jpg"
+image_webp: "/images/portfolio/Neo-Volta.webp"
+image: "/images/portfolio/Neo-Volta.jpg"
 author: Go Fish Video
 description: This is meta description
 
 ---
-{{< youtube id="FfPPP37Ejx0" autoplay="true">}}
+{{< youtube id="U06mg9cudo0" autoplay="true">}}
 
 ***
 
-#### Sit Happens
+#### Power Your Life
 
-They say that sitting is the new smoking. Americans sit an average of 6-8 hours per day, which can lead to a myriad of chronic health issues. Luckily for us, Versadesk is here to save the day.
+NeoVolta has emerged into the market as one of the fastest-growing solar power companies today. Their featured product, the NV-14 battery, utilizes a patented technology, enabling households to restore their solar power for hours on end. To celebrate their recent success, we created a powerful and energetic piece communicating their message boldly and proudly.
 
-**Producer:** Rachael Galloway
+**Producer:** Jonathan Friedlander
 
-**Director:** Sasha Shemirani
+**Director:** Sasha Shemirami
 
-**Screen Writer:** Sasha Shemirani & Paul Elia
+**Screen Writer**: Robbie Mcardle
 
-**Cinematographer:** Eric Curtis
+**Cinematographer:** Joshua Yeo
 
 **Starring:**
 
-* Evan Pinnosault
-* Vivan Grace
-* Paul Elia
-* Motion Graphics: Melissa Oakley
-* Graphic/Text Designer: Allison Synder
-* Editor: Christopher Sabat
-* Sound Engineer: Pat Williams
+* Becca Buckalew
+* CJ Brady
+* Bell Pavan
+* Kalani Caldwell
+* Motion Graphics: Angelo Roncelli & Melissa Oakley
+* Graphic Artist:Joewie Aderes
