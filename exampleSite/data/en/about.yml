@@ -4,12 +4,12 @@ about:
   image : images/about/Go-Fish-Video-Production.jpg
   image_webp : images/about/Go-Fish-Video-Production.webp
   title : Video Production Company Based in Los Angeles
-  content : "We're a full-service video production company, which means we have the know-how and tools to handle your project from start to finish. From scriptwriting to special effects, we'll work diligently with your team in turning your vision into a beautiful thing."
+  content : "We're a full-service video production company, which means we have the know-how and tools to handle your project from start to finish. From scriptwriting to special effects, we'll work diligently in turning your vision into a commercial selling masterpiece."
   feature_item : 
       # feature item loop
     - title : Conceptualize
       icon : ti-control-stop-red # themify icon pack : https://themify.me/themify-icons
-      content : First, we get creative and figure out exactly how to introduce your product or service . From there, we develop an outline, script, and execution plan.
+      content : First, we get creative and figure out exactly how to introduce your product or service. From there, we develop an outline, script, and execution plan.
       
       # feature item loop
     - title : Compose
