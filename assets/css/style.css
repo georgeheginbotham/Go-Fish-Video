@@ -1508,8 +1508,7 @@ input#e-mail,
 }
 
 .social-icon ul li a {
-  border-image: linear-gradient(to right, #f3ba35 25%, #91d7e3 25%, #8ec63f 50%,#b25ca5 50%, red 75%, #3b54a6 75%) 5;
-  border: 1px solid;
+  border: 1px  #fff solid;
   display: block;
   height: 70px;
   width: 70px;
