@@ -2,34 +2,29 @@
 author = "Go Fish Video"
 date = nil
 description = "This is meta description"
-draft = true
 image = "/images/portfolio/Versa-Desk.jpg"
 image_webp = "/images/portfolio/Versa-Desk.webp"
 title = "YouLab"
 
 +++
-{{< youtube id="FfPPP37Ejx0" autoplay="true">}}
+{{< youtube id="bkjk56ssgKA" autoplay="true">}}
 
 ***
 
-#### Sit Happens
+#### Ageless Living
 
-They say that sitting is the new smoking. Americans sit an average of 6-8 hours per day, which can lead to a myriad of chronic health issues. Luckily for us, Versadesk is here to save the day.
+YouLab, the epitome of luxury skincare, asked us to create instructional videos for their new line. What ensued was a hodgepodge of gold, glitter, and glamor.
 
-**Producer:** Rachael Galloway
+**Producer:** John Devries
+
+**Screen Writer:** Haylee Nguyen
 
 **Director:** Sasha Shemirani
 
-**Screen Writer:** Sasha Shemirani & Paul Elia
-
 **Cinematographer:** Eric Curtis
 
-**Starring:**
+**Editor:** Christopher Sabat
 
-* Evan Pinnosault
-* Vivan Grace
-* Paul Elia
-* Motion Graphics: Melissa Oakley
-* Graphic/Text Designer: Allison Synder
-* Editor: Christopher Sabat
-* Sound Engineer: Pat Williams
+**Motion Graphics Designer:** Daniel Joyella
+
+**Voiceover Artist:** Kira Gurnee

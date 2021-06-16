@@ -2,34 +2,31 @@
 author = "Go Fish Video"
 date = nil
 description = "This is meta description"
-draft = true
-image = "/images/portfolio/Versa-Desk.jpg"
-image_webp = "/images/portfolio/Versa-Desk.webp"
+image = "/images/portfolio/Triad-Pro-Innovators.jpg"
+image_webp = "/images/portfolio/Triad-Pro-Innovators.webp"
 title = "Triad Pro Innovators"
 
 +++
-{{< youtube id="FfPPP37Ejx0" autoplay="true">}}
+{{< youtube id="G3iFkNnR-SY" autoplay="true">}}
 
 ***
 
-#### Sit Happens
+#### Our Today is your Tomorrow
 
-They say that sitting is the new smoking. Americans sit an average of 6-8 hours per day, which can lead to a myriad of chronic health issues. Luckily for us, Versadesk is here to save the day.
+Triad Pro Innovators is here to disrupt the solar industry with their cutting-edge, energy storage system called the “eCell.” In this video, we explore their technology and first featured product, SPREE, the world’s first, solar-powered golf car.
 
-**Producer:** Rachael Galloway
+**Producer:** Mike Nyuis
+
+**Screen Writer:** Sean Shemirani
 
 **Director:** Sasha Shemirani
 
-**Screen Writer:** Sasha Shemirani & Paul Elia
+**Cinematographer:** Joshua Yeo
 
-**Cinematographer:** Eric Curtis
+**Editor:** Christopher Sabat
 
-**Starring:**
+**Motion Graphics Designer:** Angelo Roncelli
 
-* Evan Pinnosault
-* Vivan Grace
-* Paul Elia
-* Motion Graphics: Melissa Oakley
-* Graphic/Text Designer: Allison Synder
-* Editor: Christopher Sabat
-* Sound Engineer: Pat Williams
+**Voiceover Artist:** Sergio D’Oro
+
+**Sound Engineer:** James Bautista
