@@ -50,7 +50,7 @@ link = "plugins/venobox/venobox.min.js"
 
 [[Languages.en.menu.main]]
 name = "ABOUT"
-url = "#feautre"
+url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
