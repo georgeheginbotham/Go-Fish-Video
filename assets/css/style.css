@@ -17,6 +17,7 @@ body {
  font-family: "Helvetica Neue", sans-serif;
   color: #ffffff;
   -webkit-font-smoothing: antialiased;
+   width: 100vw;
 }
 
 h1,
