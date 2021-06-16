@@ -7,9 +7,7 @@ author: Go Fish Video
 description: This is meta description
 
 ---
-{{< youtube id="FfPPP37Ejx0" autoplay="true">}}
-
-{{<>}}
+{{< youtube id="FfPPP37Ejx0" autoplay="true" br>}}
 
 #### Sit Happens
 
