@@ -13,30 +13,16 @@ sections:
   match: "**/*"
   new_doc_ext: md
   templates:
-  - post
-- type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
 - type: heading
-  label: Author
+  label: Portfolio
 - type: directory
-  path: exampleSite/content/english/author
-  label: Author (en)
+  path: exampleSite/content/english/portfolio
+  label: Post (en)
   create: documents
   match: "**/*"
+  new_doc_ext: md
   templates:
-  - author
-- type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
+  - post
 - type: heading
   label: Data
 - type: directory
