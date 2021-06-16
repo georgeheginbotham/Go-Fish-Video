@@ -1,6 +1,6 @@
 +++
 author = "Go Fish Video"
-date = nil
+date =
 description = "This is meta description"
 image = "/images/portfolio/Kimberly-Parry-Organics.jpg"
 image_webp = "/images/portfolio/Kimberly-Parry-Organics.webp"
