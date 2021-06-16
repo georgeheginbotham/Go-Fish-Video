@@ -1,5 +1,5 @@
-############################# feature ###################################
-feature:
+############################# about ###################################
+about:
   enable : true
   image : images/about/Go-Fish-Video-Production.jpg
   image_webp : images/about/Go-Fish-Video-Production.webp
