@@ -1,35 +1,30 @@
 +++
 author = "Go Fish Video"
-date = nil
+date = ""
 description = "This is meta description"
-draft = true
-image = "/images/portfolio/Versa-Desk.jpg"
-image_webp = "/images/portfolio/Versa-Desk.webp"
+image = "/images/portfolio/Blue-Can-Water.jpg"
+image_webp = "/images/portfolio/Blue-Can-Water.webp"
 title = "Blue Can Water"
 
 +++
-{{< youtube id="FfPPP37Ejx0" autoplay="true">}}
+{{< youtube id="PMO485U1qXE" autoplay="true">}}
 
 ***
 
-#### Sit Happens
+#### It’s an Emergency
 
-They say that sitting is the new smoking. Americans sit an average of 6-8 hours per day, which can lead to a myriad of chronic health issues. Luckily for us, Versadesk is here to save the day.
+In times of emergency, it is important to be prepared. Blue Can Water is the only water with a 50-year shelf life, ideal for long-term storage. Made from aluminum, and hermetically sealed, Blue Can is the only solution as plastic bottles only last 12 months.
 
-**Producer:** Rachael Galloway
+**Producer/Screen Writer:** James Skylar
 
 **Director:** Sasha Shemirani
 
-**Screen Writer:** Sasha Shemirani & Paul Elia
+**Cinematographer:** Nam Leung
 
-**Cinematographer:** Eric Curtis
+**Editor:** Christopher Sabat
 
-**Starring:**
+**Motion Graphics Designer:** Angelo Roncelli
 
-* Evan Pinnosault
-* Vivan Grace
-* Paul Elia
-* Motion Graphics: Melissa Oakley
-* Graphic/Text Designer: Allison Synder
-* Editor: Christopher Sabat
-* Sound Engineer: Pat Williams
+**Voiceover Artist:** David Foster
+
+**Sound Engineer:** James Bautista
