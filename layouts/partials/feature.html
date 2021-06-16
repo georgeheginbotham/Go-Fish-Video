@@ -16,12 +16,25 @@
 					<br>
 					<h3>Our Process</h3>
 					<div class="row">
-						{{ range .feature_item }}
+						{{ range .feature_item 1}}
 						<div class="col-lg-6">
 							<div class="media">
 								{{with .icon}}
 								<div class="align-self-start mr-3">
 									<i class="{{ . }}"></i>
+								</div>
+								{{ end }}
+								<div class="media-body">
+									<h4 class="media-heading">{{ .title | markdownify }}</h4>
+									<p>{{ .content | markdownify }}</p>
+								</div>
+							</div>
+							{{ range .feature_item 2}}
+						<div class="col-lg-6">
+							<div class="media">
+								{{with .icon}}
+								<div class="align-self-start mr-3">
+									<i class="{{ . }}" style="color:red;"></i>
 								</div>
 								{{ end }}
 								<div class="media-body">
