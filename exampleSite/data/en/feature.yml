@@ -18,5 +18,5 @@ feature:
 
       # feature item loop
     - title : Complete
-      icon : ti-control-stop # themify icon pack : https://themify.me/themify-icons
+      icon : ti-control-stop color=#f3ba35 # themify icon pack : https://themify.me/themify-icons
       content : Last, we edit. Constructing our footage into its final form. Adding advanced visual effects, sound design and mixing, music, and color grading.
