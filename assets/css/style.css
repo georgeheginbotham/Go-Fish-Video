@@ -59,7 +59,7 @@ pre {
 video {
   object-fit: cover;
   width: 100vw;
-  height: 85vh;
+  height: 100vh;
   position: absolute;
   opacity: 0.5;
   top: 0;
