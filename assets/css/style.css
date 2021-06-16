@@ -714,8 +714,8 @@ border-image: linear-gradient(to right, #f3ba35 25%, #91d7e3 25%, #8ec63f 50%,#b
 }
 
 #contact-submit:hover {
-  background-color: #fff;
-  color: #ffffff8a;
+  background-color: #ffffff8a;
+  color: #080808;
 }
 
 .form-meghna ::placeholder {
@@ -1508,16 +1508,12 @@ input#e-mail,
 }
 
 .social-icon ul li a {
-  background-color: #26292e;
-  border: 1px solid transparent;
+  border-image: linear-gradient(to right, #f3ba35 25%, #91d7e3 25%, #8ec63f 50%,#b25ca5 50%, red 75%, #3b54a6 75%) 5;
+  border: 1px solid;
   display: block;
   height: 70px;
   width: 70px;
   transition: all 400ms ease-out 0s;
-}
-
-.social-icon ul li a:hover {
-  background: #57cbcc;
 }
 
 .social-icon ul li a:hover i {
@@ -1526,7 +1522,7 @@ input#e-mail,
 }
 
 .social-icon ul li a i {
-  color: #080808;
+  color: #fff;
   display: inline-block;
   font-size: 32px;
   line-height: 70px;
