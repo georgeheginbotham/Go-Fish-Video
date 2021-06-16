@@ -9,6 +9,8 @@ description: This is meta description
 ---
 {{< youtube id="FfPPP37Ejx0" autoplay="true">}}
 
+\\
+
 Sit Happens
 
 > They say that sitting is the new smoking. Americans sit an average of 6-8 hours per day, which can lead to a myriad of chronic health issues. Luckily for us, Versadesk is here to save the day.
