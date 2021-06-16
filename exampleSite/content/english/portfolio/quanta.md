@@ -2,9 +2,8 @@
 author = "Go Fish Video"
 date = nil
 description = "This is meta description"
-draft = true
-image = "/images/portfolio/Versa-Desk.jpg"
-image_webp = "/images/portfolio/Versa-Desk.webp"
+image = "/images/portfolio/Quanta.jpg"
+image_webp = "/images/portfolio/Quanta.webp"
 title = "Quanta"
 
 +++
@@ -12,24 +11,18 @@ title = "Quanta"
 
 ***
 
-#### Sit Happens
+#### Couples Therapy
 
-They say that sitting is the new smoking. Americans sit an average of 6-8 hours per day, which can lead to a myriad of chronic health issues. Luckily for us, Versadesk is here to save the day.
+Quanta CBD Muscle Rub uses advanced technology to increase the bioactivity in certain ingredients, such as CBD, to optimize fast, long-lasting relief from stiff and sore muscles. They required a comedic marketing campaign to introduce their product to the world.
 
-**Producer:** Rachael Galloway
+**Producer/Editor:** Sasha Shemirani
 
-**Director:** Sasha Shemirani
-
-**Screen Writer:** Sasha Shemirani & Paul Elia
-
-**Cinematographer:** Eric Curtis
+**Screen Writer/Director:** Paul Elia
 
 **Starring:**
 
-* Evan Pinnosault
-* Vivan Grace
-* Paul Elia
-* Motion Graphics: Melissa Oakley
-* Graphic/Text Designer: Allison Synder
-* Editor: Christopher Sabat
-* Sound Engineer: Pat Williams
+* Tony Baker
+* Nicole Aimee
+* Cinematographer: Eric Curtis
+* Voiceover Artist: Kira Gurnee
+* Sound Engineer: James Bautista

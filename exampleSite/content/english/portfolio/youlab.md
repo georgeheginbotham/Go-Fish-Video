@@ -2,8 +2,8 @@
 author = "Go Fish Video"
 date = nil
 description = "This is meta description"
-image = "/images/portfolio/Versa-Desk.jpg"
-image_webp = "/images/portfolio/Versa-Desk.webp"
+image = "/images/portfolio/YouLab.jpg"
+image_webp = "/images/portfolio/YouLab.webp"
 title = "YouLab"
 
 +++
