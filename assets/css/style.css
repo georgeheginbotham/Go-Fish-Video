@@ -14,7 +14,7 @@ html {
 
 body {
   background-color: #080808;
- font-family: "Quattrocento Sans", sans-serif;
+ font-family: "Helvetica Neue", sans-serif;
   color: #ffffff;
   -webkit-font-smoothing: antialiased;
 }
@@ -26,12 +26,12 @@ h4,
 h5,
 h6 {
   font-weight: 400;
- font-family: "Quattrocento Sans", sans-serif;
+ font-family: "Helvetica Neue", sans-serif;
   color: #ffffff;
 }
 
 p {
- font-family: "Quattrocento Sans", sans-serif;
+ font-family: "Helvetica Neue", sans-serif;
 }
 
 [scroll-behavior=smooth] {
@@ -404,7 +404,7 @@ background: #fff;
   Navigation
 ==================================================================*/
 .navigation {
-  width: 100%;
+  width: 100vw;
   margin-bottom: 0;
   background-image: url(../images/backgrounds/Go-Fish-Video-Website-Background.webp);
 }
