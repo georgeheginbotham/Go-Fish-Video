@@ -9,7 +9,7 @@ description: This is meta description
 ---
 {{< youtube id="FfPPP37Ejx0" autoplay="true">}}
 
-{{<br></br>}}
+{{}}
 
 #### Sit Happens
 
