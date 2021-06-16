@@ -53,7 +53,7 @@ pre {
 
 ::selection {
   color: #fff;
-  background: #57cbcc;
+  background: #080808;
 }
 
 video {
@@ -715,7 +715,7 @@ border-image: linear-gradient(to right, #f3ba35 25%, #91d7e3 25%, #8ec63f 50%,#b
 
 #contact-submit:hover {
   background-color: #fff;
-  color: #000;
+  color: #ffffff8a;
 }
 
 .form-meghna ::placeholder {
