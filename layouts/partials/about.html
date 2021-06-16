@@ -1,10 +1,10 @@
   
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.feature.feature.enable }}
-{{ with $data.feature.feature }}
-{{"<!-- feature -->" | safeHTML}}
-<section class="section section-bg about-2 padding-0" id="feature">
+{{ if $data.about.about.enable }}
+{{ with $data.about.about }}
+{{"<!-- about -->" | safeHTML}}
+<section class="section section-bg about-2 padding-0" id="about">
 	<div class="container-fluid">
 		<div class="row">
 
