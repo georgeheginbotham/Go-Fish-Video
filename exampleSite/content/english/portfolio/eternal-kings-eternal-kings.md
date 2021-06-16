@@ -2,34 +2,27 @@
 author = "Go Fish Video"
 date = nil
 description = "This is meta description"
-draft = true
-image = "/images/portfolio/Versa-Desk.jpg"
-image_webp = "/images/portfolio/Versa-Desk.webp"
+image = "/images/portfolio/Eternal-Kings.jpg"
+image_webp = "/images/portfolio/Eternal-Kings.webp"
 title = "Eternal Kings Eternal Kings"
 
 +++
-{{< youtube id="FfPPP37Ejx0" autoplay="true">}}
+{{< youtube id="zJESSrx0Tw8" autoplay="true">}}
 
 ***
 
-#### Sit Happens
+#### Promotional Video
 
-They say that sitting is the new smoking. Americans sit an average of 6-8 hours per day, which can lead to a myriad of chronic health issues. Luckily for us, Versadesk is here to save the day.
+Corrupted Kings, Wicked Saints, and Vile Elementals collide in this “Chess meets Magic the Gathering” card game. This video was at the forefront of a highly successful Kickstarter Campaign.
 
-**Producer:** Rachael Galloway
+**Producer:** Rolando Issa
 
 **Director:** Sasha Shemirani
 
-**Screen Writer:** Sasha Shemirani & Paul Elia
+**Screen Writer:** Rolando Issa
 
-**Cinematographer:** Eric Curtis
+**Cinematographer:** Joshua Yeo
 
-**Starring:**
+**Graphic Artist:** Joewie Aderes
 
-* Evan Pinnosault
-* Vivan Grace
-* Paul Elia
-* Motion Graphics: Melissa Oakley
-* Graphic/Text Designer: Allison Synder
-* Editor: Christopher Sabat
-* Sound Engineer: Pat Williams
+**Motion Graphic Artist:** Daniel Joyella

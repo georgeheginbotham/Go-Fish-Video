@@ -13,7 +13,7 @@ title = "Kimberly Parry Organics"
 
 #### Beauty is Organic
 
-“Beauty is organic” is the mantra of Kimberly Parry Organics, a USDA-certified organic skin care brand dedicated to showing us that true beauty can be found in Mother Nature.
+“Beauty is organic” is the mantra of Kimberly Parry Organics, a USDA-certified organic skincare brand dedicated to showing us that true beauty can be found in Mother Nature.
 
 **Producer:** Kenneth Owen
 

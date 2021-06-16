@@ -2,34 +2,31 @@
 author = "Go Fish Video"
 date = nil
 description = "This is meta description"
-draft = true
-image = "/images/portfolio/Versa-Desk.jpg"
-image_webp = "/images/portfolio/Versa-Desk.webp"
+image = "/images/portfolio/Eurocuisine.jpg"
+image_webp = "/images/portfolio/Eurocuisine.webp"
 title = "Eurocuisine"
 
 +++
-{{< youtube id="FfPPP37Ejx0" autoplay="true">}}
+{{< youtube id="-Ax0_L9UDSM" autoplay="true">}}
 
 ***
 
-#### Sit Happens
+#### Dear Mom
 
-They say that sitting is the new smoking. Americans sit an average of 6-8 hours per day, which can lead to a myriad of chronic health issues. Luckily for us, Versadesk is here to save the day.
+Imagine being able to make fresh, healthy, and delicious yogurt all from the comfort of your own home! Eurocuisine Yogurt Makers offer a quick, fin, and easy alternative to buying store-bought yogurt, which can be loaded with additives. Store-bought yogurt? We don’t think so!
 
-**Producer:** Rachael Galloway
+**Producer:** Fred Partiyelli
 
-**Director:** Sasha Shemirani
-
-**Screen Writer:** Sasha Shemirani & Paul Elia
-
-**Cinematographer:** Eric Curtis
+**Screen Writer/Director:** Sasha Shemirani
 
 **Starring:**
 
-* Evan Pinnosault
-* Vivan Grace
-* Paul Elia
-* Motion Graphics: Melissa Oakley
-* Graphic/Text Designer: Allison Synder
-* Editor: Christopher Sabat
-* Sound Engineer: Pat Williams
+Elle Sunkara
+
+Sophie Gaegan
+
+**Cinematographer:** Christopher Ahn
+
+**Editor:** Christopher Sabat
+
+**Sound Engineer:** James Bautista
