@@ -11,8 +11,10 @@
 		<p style="margin-top: 10px">{{ .content | markdownify }}</p>
 		{{ if .button.enable }}
 		{{ with .button }}
-		<a class="venobox btn btn-transparent page-scroll" data-autoplay="true" data-vbtype="video" href="{{ .link | safeURL }}">{{ .label }}</a>
 		<a class="btn btn-transparent page-scroll" style="border:2px solid #fff;padding: 14px 45px;" href="#contact">Get Quote</a>
+		<br>
+		<a class="venobox btn btn-transparent page-scroll" data-autoplay="true" data-vbtype="video" href="{{ .link | safeURL }}">{{ .label }}</a>
+
 		{{ end }}
 		{{ end }}
 	</div>
