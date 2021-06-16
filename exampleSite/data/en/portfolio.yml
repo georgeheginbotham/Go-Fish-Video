@@ -9,7 +9,7 @@ portfolio:
       image_webp : images/portfolio/Versa-Desk.webp
       categories : ["commericals"]
       content : Sit Happens
-      link : "https://www.youtube.com/embed/FfPPP37Ejx0"
+      link : "/portfolio/versa-desk-comerical"
       
     # portfolio item loop
     - name : Neo Volta
