@@ -1,5 +1,5 @@
-############################# the-catch ##############################
-the-catch:
+############################# thecatch ##############################
+thecatch:
   enable : true
   bg_image : "images/backgrounds/Go-Fish-Video-Website-Background.jpg"
   bg_image_webp : "images/backgrounds/Go-Fish-Video-Website-Background.webp"
