@@ -433,7 +433,7 @@ a:hover {
 
 .hero-area {
   background-size: cover;
-  height: 85vh;
+  height: 100vh;
   position: relative;
   display: flex;
   justify-content: center;
@@ -455,7 +455,7 @@ a:hover {
   z-index: 99;
 }
 
-.hero-area .block .video-button {
+.hero-area .block .videovideo-button {
   background: #fff;
   color: #57cbcc;
   display: inline-block;
@@ -502,7 +502,7 @@ a:hover {
 }
 
 .hero-area-video {
-  height: 85vh;
+  height: 100vh;
   position: inherit !important;
   display: flex;
   justify-content: center;
