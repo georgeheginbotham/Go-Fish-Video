@@ -1,6 +1,6 @@
 +++
 author = "Go Fish Video"
-date =
+date = ""
 description = "This is meta description"
 image = "/images/portfolio/Blue-Can-Water.jpg"
 image_webp = "/images/portfolio/Blue-Can-Water.webp"
