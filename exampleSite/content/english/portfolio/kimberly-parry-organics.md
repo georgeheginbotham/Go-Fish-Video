@@ -2,34 +2,29 @@
 author = "Go Fish Video"
 date = nil
 description = "This is meta description"
-draft = true
-image = "/images/portfolio/Versa-Desk.jpg"
-image_webp = "/images/portfolio/Versa-Desk.webp"
+image = "/images/portfolio/Kimberly-Parry-Organics.jpg"
+image_webp = "/images/portfolio/Kimberly-Parry-Organics.webp"
 title = "Kimberly Parry Organics"
 
 +++
-{{< youtube id="FfPPP37Ejx0" autoplay="true">}}
+{{< youtube id="jqoTiv66hsA" autoplay="true">}}
 
 ***
 
-#### Sit Happens
+#### Beauty is Organic
 
-They say that sitting is the new smoking. Americans sit an average of 6-8 hours per day, which can lead to a myriad of chronic health issues. Luckily for us, Versadesk is here to save the day.
+“Beauty is organic” is the mantra of Kimberly Parry Organics, a USDA-certified organic skin care brand dedicated to showing us that true beauty can be found in Mother Nature.
 
-**Producer:** Rachael Galloway
+**Producer:** Kenneth Owen
 
-**Director:** Sasha Shemirani
+**Director:** Christopher Sabat
 
-**Screen Writer:** Sasha Shemirani & Paul Elia
+**Screen Writer:** Sasha Shemirani
 
 **Cinematographer:** Eric Curtis
 
-**Starring:**
+**Motion Graphics:** Dan Joyella
 
-* Evan Pinnosault
-* Vivan Grace
-* Paul Elia
-* Motion Graphics: Melissa Oakley
-* Graphic/Text Designer: Allison Synder
-* Editor: Christopher Sabat
-* Sound Engineer: Pat Williams
+**Voiceover Artist:** Kira Gurnee
+
+**Production Designer:** Andres Agudelo
