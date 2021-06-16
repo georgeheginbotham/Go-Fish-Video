@@ -434,6 +434,7 @@ background: #fff;
 .hero-area {
   background-size: cover;
   height: 88vh;
+  width: 100vw;
   position: relative;
   display: flex;
   justify-content: center;
