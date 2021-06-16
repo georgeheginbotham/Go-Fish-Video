@@ -82,7 +82,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "/images/preload.jpg
+preloader = "/images/Go-Fish-Preload-Image.png"
 
 # cookies
 [params.cookies]
