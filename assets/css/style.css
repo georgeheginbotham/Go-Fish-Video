@@ -59,7 +59,7 @@ pre {
 video {
   object-fit: cover;
   width: 100vw;
-  height: 100vh;
+  height: 88vh;
   position: absolute;
   opacity: 0.5;
   top: 0;
@@ -433,7 +433,7 @@ a:hover {
 
 .hero-area {
   background-size: cover;
-  height: 100vh;
+  height: 88vh;
   position: relative;
   display: flex;
   justify-content: center;
