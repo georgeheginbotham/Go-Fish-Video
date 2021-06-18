@@ -9,7 +9,7 @@
 			<div class="col-lg-12">
 				{{"<!-- section title -->" | safeHTML}}
 				<div class="title text-center wow fadeIn" data-wow-duration="500ms">
-					<h2 style="color: #080808">{{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
+					<h2 style="color: #080808;">{{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
 							{{ with .title }} {{ after (len (index (split . " ") 0)) . | safeHTML }} {{ end }}</span></h2>
 					<div class="border-meghna"></div>
 				</div>
@@ -18,8 +18,8 @@
 
 			{{"<!-- Contact Details -->" | safeHTML}}
 			<div class="contact-info col-lg-6 wow fadeInUp" data-wow-duration="500ms">
-				<h3 style="color: #080808">{{ .subtitle | markdownify }}</h3>
-				<p style="color: #080808"> {{ .content | markdownify }} </p>
+				<h3 style="color: #080808;">{{ .subtitle | markdownify }}</h3>
+				<p style="color: #080808;"> {{ .content | markdownify }} </p>
 
 				{{ if .contact_form.enable }}
 				<div class="contact-details">
