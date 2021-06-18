@@ -693,8 +693,8 @@ border-image: linear-gradient(to right, #f3ba35 25%, #91d7e3 25%, #8ec63f 50%,#b
   background-color: transparent;
   border-radius: 0;
   padding: 5px 10px;
-  color: #ddd;
-  border: 1px solid #c3c3c3;
+  color: #080808;
+  border: 1px solid #080808;
 
 }
 
@@ -705,7 +705,7 @@ border-image: linear-gradient(to right, #f3ba35 25%, #91d7e3 25%, #8ec63f 50%,#b
 
 .form-meghna input:hover,
 .form-meghna textarea:hover {
-  border-color: #fff;
+  border-image: linear-gradient(to right, #f3ba35 25%, #91d7e3 25%, #8ec63f 50%,#b25ca5 50%, red 75%, #3b54a6 75%) 5;
 }
 
 #contact-submit {
@@ -721,7 +721,7 @@ border-image: linear-gradient(to right, #f3ba35 25%, #91d7e3 25%, #8ec63f 50%,#b
 }
 
 .form-meghna ::placeholder {
-  color: #ddd !important;
+  color: #080808 !important;
 }
 
 .google-map #map-canvas {
