@@ -24,16 +24,6 @@ team:
           link : "#"
         
     # team member loop
-    - name : Eric Curtis
-      image_webp : images/team/Eric-Curtis.webp
-      image : images/team/Eric-Curtis.jpg
-      designation : Cinematographer
-      content : Eric has photographed some of the most well known celebrities, athletes, and musicians to date. His lighting expertise is comparable to none, and his one-of-a-kind style is instantly recognized . Outside of Go Fish, Eric enjoys cheap sushi on a night in and is an avid Puma collector.
-      social :
-        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
-          link : "#"
-        
-    # team member loop
     - name : Xin Ma
       image_webp : images/team/Xin-Ma.webp
       image : images/team/Xin-Ma.jpg
@@ -49,6 +39,16 @@ team:
       image : images/team/Melissa-Oakley.jpg
       designation : Motion Graphics Artist
       content :  Melissa Oakley is a young prodigy who, at a young age, has already worked with iconic institutions ranging from ESPN to Activision. Her creative abilities range from avant-garde and cerebral to clean and corporate-approved. Melissa’s invaluable contributions are the final stamp of approval, the finishing touch to every Go Fish project.
+      social :
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "#"
+          
+              # team member loop
+    - name : Eric Curtis
+      image_webp : images/team/Eric-Curtis.webp
+      image : images/team/Eric-Curtis.jpg
+      designation : Cinematographer
+      content : Eric has photographed some of the most well known celebrities, athletes, and musicians to date. His lighting expertise is comparable to none, and his one-of-a-kind style is instantly recognized . Outside of Go Fish, Eric enjoys cheap sushi on a night in and is an avid Puma collector.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
