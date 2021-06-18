@@ -1087,7 +1087,7 @@ border-image: linear-gradient(to right, #f3ba35 25%, #91d7e3 25%, #8ec63f 50%,#b
 }
 
 .member-meta {
-  padding: 15px;
+    padding-top: 15px;
 }
 
 .member-meta h4 {
