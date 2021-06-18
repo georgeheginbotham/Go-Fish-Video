@@ -5,7 +5,7 @@ banner:
   bg_image : ""
   icon : "ti-control-play" # themify icon pack : https://themify.me/themify-icons
   title : "WE ARE"
-  content : "Imagination has no limits, neither do we"
+  content : "imagination has no limits, neither do we"
   button:
     enable : true
     label : "Play Reel"
