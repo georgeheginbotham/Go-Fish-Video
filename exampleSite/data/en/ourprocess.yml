@@ -1,5 +1,5 @@
 ############################# Our Process ###################################
-process:
+ourprocess:
   enable : true
   title : Our Process
   process_item :
