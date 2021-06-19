@@ -1087,9 +1087,8 @@ border-image: linear-gradient(to right, #f3ba35 25%, #91d7e3 25%, #8ec63f 50%,#b
 }
 
 .member-meta {
-    padding-top: 15px;
-	    text-align: justify;
-	    padding-right: 30px;
+    padding-top: 10px;
+    text-align: center;
 }
 
 .member-meta h4 {
