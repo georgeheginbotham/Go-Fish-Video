@@ -546,7 +546,6 @@ border-image: linear-gradient(to right, #f3ba35 25%, #91d7e3 25%, #8ec63f 50%,#b
   About us section
 ==================================================================*/
 .about .block {
-  background: #242930;
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
