@@ -3,14 +3,14 @@ ourprocess:
   enable : true
   title : Our Process
   process_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-control-stop-red # themify icon pack : https://themify.me/themify-icons
+    title : Conceptualize
+    content : First, we get creative and figure out exactly how to introduce your product or service. From there, we develop an outline, script, and execution plan.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-control-stop-yellow # themify icon pack : https://themify.me/themify-icons
+    title : Compose
+    content : Our team of writers, directors, producers, designers, actors, and crew fuses our visions. Then we produce! With camera and audio gear of the highest caliber and create a magical story.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-control-stop-blue # themify icon pack : https://themify.me/themify-icons
+    title : Complete
+    content : Last, we edit. Constructing our footage into its final form. Adding advanced visual effects, sound design and mixing, music, and color grading.
