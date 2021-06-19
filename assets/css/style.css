@@ -612,7 +612,8 @@ border-image: linear-gradient(to right, #f3ba35 25%, #91d7e3 25%, #8ec63f 50%,#b
   About us 2 section
 ==================================================================*/
 .about-2 .content-block {
-  padding: 40px;
+margin-top: 50px;
+    margin-bottom: 50px;
 	text-align: center;
 }
 
