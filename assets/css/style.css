@@ -1020,6 +1020,8 @@ margin-top: 80px;
 ==================================================================*/
 .team-member {
   margin-bottom: 10px;
+	max-width: 347px;
+    margin: auto;
 }
 
 .team-member:hover .mask {
