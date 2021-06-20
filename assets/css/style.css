@@ -14,8 +14,7 @@ html {
 
 body {
   background-color: #080808;
- font-family: "Helvetica Neue", sans-serif;
-  color: #ffffff;
+ font-family: "Helvetica Neue", sans-serif;.about-2 .content-block
   -webkit-font-smoothing: antialiased;
     width: 100%;
 }
@@ -612,8 +611,8 @@ border-image: linear-gradient(to right, #f3ba35 25%, #91d7e3 25%, #8ec63f 50%,#b
   About us 2 section
 ==================================================================*/
 .about-2 .content-block {
-margin-top: 100px;
-    margin-bottom: 100px;
+margin-top: 80px;
+    margin-bottom: 90px;
 	text-align: center;
 }
 
