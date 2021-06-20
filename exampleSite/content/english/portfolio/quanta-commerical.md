@@ -7,7 +7,7 @@ image_webp = "/images/portfolio/Quanta.webp"
 title = "Quanta"
 
 +++
-{{< youtube id="FfPPP37Ejx0" autoplay="true">}}
+{{< youtube id="NtZ2HInBoqQ" autoplay="true">}}
 
 ***
 
