@@ -20,7 +20,7 @@ contact:
   # Contact form
   contact_form:
     enable : true
-    form_action : "#" #contact form works with https://formspree.io
+    form_action : "https://formspree.io/f/xleanvbe" #contact form works with https://formspree.io
     name : "Name"
     email : "Email"
     subject : "Company"
