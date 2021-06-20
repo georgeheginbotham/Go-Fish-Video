@@ -49,12 +49,12 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #91d7e3;
+  background: #3b54a6;
 }
 
 ::selection {
   color: #fff;
-  background: #91d7e3;
+  background: #3b54a6;
 }
 
 video {
