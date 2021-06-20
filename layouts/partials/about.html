@@ -4,7 +4,7 @@
 {{ if $data.about.about.enable }}
 {{ with $data.about.about }}
 {{"<!-- about -->" | safeHTML}}
-<section class="section section-bg about-2 padding-0" id="about">
+<section class="section section-bg about-2" id="about" style= "border: solid 2px; border-image: linear-gradient(to right,#f3ba35 25%,#91d7e3 25%,#8ec63f 50%,#b25ca5 50%,red 75%,#3b54a6 75%)5;">
 	<div class="container">
 				<div class="content-block">
 					<h2><b>{{ .title | markdownify }}</b></h2>
