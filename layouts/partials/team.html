@@ -24,10 +24,8 @@
             {{"<!-- member photo -->" | safeHTML}}
             <img class="img-fluid lozad" data-src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
            
-          </div>
             
           {{"<!-- member name & designation -->" | safeHTML}}
-          <div class="member-meta">
             <h3><b>{{ .name }}</b></h3>
             <h5><b>{{ .designation | markdownify}}</b></h5>
             <p>{{ .content | markdownify }}</p>
