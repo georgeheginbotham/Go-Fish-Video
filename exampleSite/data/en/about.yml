@@ -4,7 +4,7 @@ about:
   image : images/about/Go-Fish-Video-Production.jpg
   image_webp : images/about/Go-Fish-Video-Production.webp
   title : Commerical Videos for Products & Brands
-  content : "We're a full-service video production company, which means we have the know-how and tools to handle your project from start to finish. From scriptwriting to special effects, we'll work diligently in turning your vision into a commercial selling masterpiece."
+  content : "We're a full-service video production company, which means we have the know-how and tools to handle your project from start to finish. From scriptwriting to special effects, we'll work diligently in turning your vision into a commercial selling masterpiece!"
   feature_item : 
       # feature item loop
     - title : Conceptualize
