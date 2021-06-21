@@ -48,7 +48,7 @@ team:
       image_webp : images/team/Eric-Curtis.webp
       image : images/team/Eric-Curtis.jpg
       designation : Cinematographer
-      content : Eric has photographed some of the most well known celebrities, athletes, and musicians to date. His lighting expertise is comparable to none, and his one-of-a-kind style is instantly recognized . Outside of Go Fish, Eric enjoys cheap sushi on a night in and is an avid Puma collector.
+      content : Eric has photographed some of the most well known celebrities, athletes, and musicians to date. His lighting expertise is comparable to none, and his one-of-a-kind style is instantly recognized. Outside of Go Fish, Eric enjoys cheap sushi on a night in and is an avid Puma collector.
       social :
         - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
           link : "#"
