@@ -80,7 +80,12 @@ a {
 }
 
 iframe {
-  border: 0;
+object-fit: cover;
+    width: 100%;
+    height: 88vh;
+    position: absolute;
+    opacity: .5;
+    top: 0;
 }
 
 a,
