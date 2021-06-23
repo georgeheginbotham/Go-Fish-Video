@@ -4,7 +4,7 @@ date = ""
 description = "This is meta description"
 image = "/images/portfolio/Eternal-Kings.jpg"
 image_webp = "/images/portfolio/Eternal-Kings.webp"
-title = "Eternal Kings Eternal Kings"
+title = "Eternal Kings"
 
 +++
 {{< youtube id="zJESSrx0Tw8" autoplay="true">}}
