@@ -25,7 +25,7 @@
 					{{ range .contact_list }}
 					<div class="con-info clearfix">
 						<i class="{{ .icon }}" style="font-size:30px; color:#080808;"></i>
-						<span style="color:#080808;">{{ .info }}</span>
+						<span style="color:#080808;"><a href="{{ .link | safeURL }}">{{ .info }}</a></span>
 					</div>
 					{{ end }}
 				</div>
