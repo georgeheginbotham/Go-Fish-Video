@@ -1,12 +1,17 @@
 +++
 author = "Privacy Policy"
 date = ""
-description = "This privacy policy ("policy") will help you understand how Go Fish Video uses and protects the data you provide to us when you visit and use website.We reserve the right to change this policy at any given time, of which you will be promptly updated. If you want to make sure that you are up to date with the latest changes, we advise you to frequently visit this page."
+description = "Your data is safe with us"
 image = ""
 image_webp = ""
 title = "Thank You"
 
 +++
+This privacy policy will help you understand how Go Fish Video uses and 
+protects the data you provide to us when you visit and use website.
+We reserve the right to change this policy at any given time, of which you will be promptly 
+updated. If you want to make sure that you are up to date with the latest changes, we advise 
+you to frequently visit this page.
 
 What User Data We Collect
 When you visit the website, we may collect the following data:
@@ -23,7 +28,7 @@ interesting.
 • To contact you to fill out surveys and participate in other types of market research.
 • To customize our website according to your online behavior and personal preferences.
 Safeguarding and Securing the Data
-[name] is committed to securing your data and keeping it confidential. [name] has done all in its 
+Go Fish Video is committed to securing your data and keeping it confidential. Go Fish Video has done all in its 
 power to prevent data theft, unauthorized access, and disclosure by implementing the latest 
 technologies and software, which help us safeguard all the information we collect online.
 Our Cookie Policy
@@ -38,7 +43,7 @@ provide a better experience for you
 If you want to disable cookies, you can do it by accessing the settings of your internet browser. 
 (Provide links for cookie settings for major internet browsers).
 Links to Other Websites
-Our website contains links that lead to other websites. If you click on these links [name] is not 
+Our website contains links that lead to other websites. If you click on these links Go Fish Video is not 
 held responsible for your data and privacy protection. Visiting those websites is not governed by 
 this privacy policy agreement. Make sure to read the privacy policy documentation of the 
 website you go to from our website.
@@ -49,6 +54,6 @@ When you are filling the forms on the website, make sure to check if there is a 
 can leave unchecked, if you don't want to disclose your personal information.
 If you have already agreed to share your information with us, feel free to contact us via email 
 and we will be more than happy to change this for you.
-[name] will not lease, sell or distribute your personal information to any third parties, unless we 
+Go Fish Video will not lease, sell or distribute your personal information to any third parties, unless we 
 have your permission. We might do so if the law forces us. Your personal information will be 
 used when we need to send you promotional materials if you agree to this privacy policy.
