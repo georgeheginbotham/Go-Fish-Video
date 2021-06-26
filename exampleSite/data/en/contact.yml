@@ -12,6 +12,7 @@ contact:
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: 310-927-5016"
+      link : "tel:3109275016"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: info@gofishvideo"
