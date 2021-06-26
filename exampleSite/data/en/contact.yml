@@ -9,7 +9,7 @@ contact:
   contact_list:
     - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       info : "400 S. Main St. #701 Los Angeles, CA 90013"
-      link : ""
+      link : "https://www.google.com/maps/place/400+S+Main+St+%23701,+Los+Angeles,+CA+90013/@34.047822,-118.2494519,17z/data=!3m1!4b1!4m5!3m4!1s0x80c2c64a1edffc95:0xc6a85e81d53f4cf9!8m2!3d34.047822!4d-118.2472632"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: 310-927-5016"
@@ -17,7 +17,7 @@ contact:
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
       info : "Email: info@gofishvideo"
-      link : ""
+      link : "mailto: info@gofishvideo.com"
 
 
   # Contact form
