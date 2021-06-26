@@ -1,10 +1,10 @@
 +++
-author = "Privacy Policy"
+author = "Your data is safe with us"
 date = ""
-description = "Your data is safe with us"
+description = ""
 image = ""
 image_webp = ""
-title = "Thank You"
+title = "Privacy policy"
 
 +++
 This privacy policy will help you understand how Go Fish Video uses and 
