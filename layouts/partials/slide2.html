@@ -1,0 +1,37 @@
+
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.ourprocess.ourprocess.enable }}
+{{ with $data.ourprocess.ourprocess }}
+{{"<!-- Start process Section -->" | safeHTML}}
+<section class="bg-one about section" id="ourprocess" style='background-image: url("/images/backgrounds/Go-Fish-Video-Website-Background.webp")'>
+	<div data-ix="scroll-reveal-slide-up" class="container" style="opacity: 1;transform: translateX(0px) translateY(0px) translateZ(0px);transition: opacity 1000ms ease-in-out 0s, transform 1000ms ease-in-out 0s;">
+		<div class="row justify-content-center">
+			<div class="col-lg-12">
+				{{"<!-- section title -->" | safeHTML}}
+				<div class="title text-center wow fadeIn" data-wow-duration="1500ms" style= "padding-bottom: 5px;">
+					<h2 style="color: #080808;">{{.title }}</h2>
+					<div class="border-meghna" style="border-top: 1px solid #00000078;"></div>
+				</div>
+			</div>
+			{{"<!-- /section title -->" | safeHTML}}
+
+			{{ range .process_item }}
+			{{"<!-- process item -->" | safeHTML}}
+			<div class="col-lg-4 text-center wow fadeInUp pt-5" data-wow-duration="500ms">
+					<div class="icon-box">
+						{{with .icon}}<i class="{{ . }}"></i>{{ end }}
+					</div>
+					{{"<!-- Express process Yourself -->" | safeHTML}}
+					<div class="content text-center">
+						<h3 style="padding-top:10px; color: #080808;">{{ .title }}</h3>
+						<p  style="color: #080808; padding-right: 10px; padding-left: 10px;">{{ .content | markdownify }}</p>
+					</div>
+			</div>
+			{{ end }}
+		</div>
+	</div>
+</section>
+{{"<!-- /about -->" | safeHTML}}
+{{ end }}
+{{ end }}
