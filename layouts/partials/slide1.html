@@ -4,9 +4,9 @@
 {{ with $data.banner.banner }}
 {{"<!-- Welcome Slider-->" | safeHTML}}
 <section class="hero-area" id="home">
-	<div class="block">
+	<div class="block wrapper">
 		<h3 style="margin-bottom: -15px;"><b>{{ .title | markdownify }}</b></h3>
-		<img src="/images/Go-Fish-Logo-Front-Page.png" alt="Go Fish Video Logo" width="600" class="ZoomA">
+		<img src="/images/Go-Fish-Logo-Front-Page.png" alt="Go Fish Video Logo" width="600" class="tiny">
 		<p style="margin-top: 10px"><b>{{ .content | markdownify }}</b></p>
 	</div>
 </section>
