@@ -67,6 +67,11 @@ html.w-mod-js *[data-ix="scroll-reveal-slide-up"] {
   background: #3b54a6;
 }
 
+.about-name {
+  animation: flipInX 1s both;
+  animation-delay: 0.5s;
+}
+
 video {
   object-fit: cover;
   width: 100%;
