@@ -82,14 +82,27 @@ a {
   transition: all .3s ease-in 0s;
 }
 
-.zoomA {
-  width: 600px;
-  height: auto;
-  /* ease | ease-in | ease-out | linear */
-  transition: transform ease-in-out 0.3s;
+.wrapper {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
-.zoomA:hover {
-  transform: scale(1.2);
+
+.wrapper img {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    transition: width 1s ease-in-out;
+    width: 200px;
+}
+
+.wrapper img.tiny {
+    width: 10px;
 }
 
 iframe {
