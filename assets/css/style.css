@@ -55,6 +55,13 @@ pre {
   background: #3b54a6;
 }
 
+html.w-mod-js *[data-ix="scroll-reveal-slide-up"] {
+    opacity: 0;
+    -webkit-transform: translate(0px, 60px);
+    -ms-transform: translate(0px, 60px);
+    transform: translate(0px, 60px);
+}
+
 ::selection {
   color: #fff;
   background: #3b54a6;
