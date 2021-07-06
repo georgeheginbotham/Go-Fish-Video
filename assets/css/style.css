@@ -43,6 +43,17 @@ pre {
   color: #ffffff;
 }
 
+.zoomA {
+  width: 600px;
+  height: auto;
+  /* ease | ease-in | ease-out | linear */
+  transition: transform ease-in-out 0.3s;
+}
+.zoomA:hover {
+  transform: scale(1.2);
+}
+
+
 /*=================================================================
   Basic Setup
 ==================================================================*/
