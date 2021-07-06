@@ -66,18 +66,6 @@ pre {
   animation-delay: 0.5s;
 }
 
-.gal--animation{
-opacity: 0;
-}
-
-.gal--animation.animated{
-opacity: 1;
-}
-
-.gal--part2{
-animation-delay: 0.2s;
-}
-
 video {
   object-fit: cover;
   width: 100%;
