@@ -46,7 +46,7 @@ link = "plugins/google-map/map.js"
 [[params.plugins.js]]
 link = "plugins/venobox/venobox.min.js"
 [[params.plugins.js]]
-link = "plugins/scroll/wow-spec.js"
+link = "plugins/scroll/wow.min.js"
 
 ################### English Navigation ########################
 
