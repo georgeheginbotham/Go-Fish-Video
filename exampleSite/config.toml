@@ -88,7 +88,7 @@ post_share = true
 
 # preloader
 [params.preloader]
-enable = false
+enable = true
 preloader = "/images/Go-Fish-Video-The-Catch.gif"
 
 # cookies
