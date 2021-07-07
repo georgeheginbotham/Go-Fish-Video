@@ -62,8 +62,8 @@ pre {
 }
 
 .about-name {
-  animation: flipInX 1s both;
-  animation-delay: 0.5s;
+  animation: fadeInUp 1s both
+  animation-delay: 0.7;
 }
 .go-fish-logo-an {
   animation: zoomIn 1s forwards;
