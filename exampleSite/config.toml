@@ -45,6 +45,8 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [[params.plugins.js]]
 link = "plugins/venobox/venobox.min.js"
+[[params.plugins.js]]
+link = "plugins/scroll/jquery.waypoints.min.js"
 
 ################### English Navigation ########################
 
