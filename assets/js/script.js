@@ -1,3 +1,11 @@
+$(document).ready(function() {
+$('.about-me').waypoint(function() {
+$('.about-me').css({
+animation: "animate-positive 2s",
+opacity: "1"
+});
+}, { offset: '75%' });
+
 /* ========================================================================= */
 /*	Page Preloader
 /* ========================================================================= */
