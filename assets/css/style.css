@@ -62,13 +62,24 @@ pre {
 }
 
 .about-name {
-  animation: fadeInUp 1s both
+  animation: fadeInUp 1s forwards;
   animation-delay: 0.7;
 }
 .go-fish-logo-an {
-  animation: zoomIn 1s forwards;
+  animation: jackInTheBox 1s forwards;
 	  animation-delay: 0.5s;
 }
+
+.slogan-an {
+  animation: fadeInDown 1s forwards;
+  animation-delay: 0.7;
+}
+.play-reel-an {
+  animation: bounceInUp 1s forwards;
+	  animation-delay: 0.9s;
+}
+
+
 
 video {
   object-fit: cover;
