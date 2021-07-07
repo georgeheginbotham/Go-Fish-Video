@@ -1,4 +1,4 @@
-new WOW().init();
+
 
 $(document).ready(function(){
      $('css selector').addClass('go-fish-logo-an');
@@ -12,6 +12,7 @@ $(document).ready(function(){
 
 $(window).on('load', function () {
 	$('.preloader').fadeOut(100);
+	new WOW().init();
 });
 
 jQuery(function ($) {
