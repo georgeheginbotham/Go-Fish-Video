@@ -1,5 +1,8 @@
 new WOW().init();
 
+$(document).ready(function(){
+     $('css selector').addClass('go-fish-logo-an')
+});
 /* ========================================================================= */
 /*	Page Preloader
 /* ========================================================================= */
@@ -10,9 +13,7 @@ $(window).on('load', function () {
 
 jQuery(function ($) {
 	"use strict";
-	$(document).ready(function(){
-     $('css selector').addClass('go-fish-logo-an').
-});
+	
 	/* ========================================================================= */
 	/*	lazy load initialize
 	/* ========================================================================= */
