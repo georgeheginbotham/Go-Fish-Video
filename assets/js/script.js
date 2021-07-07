@@ -6,6 +6,14 @@ $(window).on('load', function () {
 	$('.preloader').fadeOut(100);
 });
 
+$(document).ready(function() {
+$('.about-name').waypoint(function() {
+$('.about-name').css({
+animation: "animate-positive 2s",
+opacity: "1"
+});
+}, { offset: '75%' });
+
 jQuery(function ($) {
 	"use strict";
 
