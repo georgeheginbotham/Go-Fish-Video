@@ -1,11 +1,7 @@
 new WOW().init();
-document.body.classList.add('js-loading');
-
-window.addEventListener("load", showPage);
-
-function showPage() {
-  document.body.classList.remove('js-loading');
-}
+$(document).ready(function(){
+     $('css selector').addClass('go-fish-logo-an').
+});
 /* ========================================================================= */
 /*	Page Preloader
 /* ========================================================================= */
