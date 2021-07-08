@@ -68,23 +68,20 @@ pre {
 
 .about-name {
   animation: fadeInUp 1s forwards;
-animation-delay: 0.7;
+animation-delay: 2;
 }
 
 .go-fish-logo-an {
-	 visibility: hidden;
-}
-.go-fish-logo-an {
-  
+  animation: zoomIn 1s forwards; animation-delay: 1s;
 }
 
 .slogan-an {
   animation: fadeInDown 1s forwards;
-  animation-delay: 0.7;
+  animation-delay: 2;
 }
 .play-reel-an {
   animation: flipInX 1s forwards;
- animation-delay: 0.9s;
+ animation-delay: 3s;
 }
 
 
