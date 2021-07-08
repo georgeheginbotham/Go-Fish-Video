@@ -61,20 +61,20 @@ pre {
 
 .about-name {
   animation: fadeInUp 1s forwards;
-  animation-delay: 0.7;
+  animation-delay: 2s;
 }
 .go-fish-logo-an {
   animation: zoomIn 1s forwards;
-	  animation-delay: 0.2s;
+	  animation-delay: 1s;
 }
 
 .slogan-an {
   animation: fadeInDown 1s forwards;
-  animation-delay: 0.7;
+  animation-delay: 2s;
 }
 .play-reel-an {
-  animation: bounceInUp 1s forwards;
-	  animation-delay: 0.9s;
+  animation: flipInX 1s forwards;
+	  animation-delay: 3s;
 }
 
 
@@ -101,19 +101,6 @@ a {
   transition: all .3s ease-in 0s;
 }
 
-.wrapper img {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
-    -webkit-transition: -webkit-transform 1s ease-out;
-    -moz-transition: -moz-transform 1s ease-out;
-    -ms-transition: -ms-transform 1s ease-out;
-    -o-transition: -o-transform 1s ease-out;
-    transition: transform 1s ease-out;
-}
 
 iframe {
 object-fit: cover;
