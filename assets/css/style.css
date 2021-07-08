@@ -64,20 +64,21 @@ pre {
 }
 
 .about-name {
-  animation: fadeInUp 1s forwards;
-animation-delay: 2;
+  animation: fadeInUp 1s both;
+animation-delay: 2s;
 }
 
 .go-fish-logo-an {
-  animation: zoomIn 1s forwards; animation-delay: 1s;
+  animation: zoomIn 1s both;
+  animation-delay: 1s;
 }
 
 .slogan-an {
-  animation: show-on-load fadeInDown 1s forwards;
-  animation-delay: 2;
+  animation: fadeInDown 1s both;
+  animation-delay: 2s;
 }
 .play-reel-an {
-  animation: flipInX 1s forwards;
+  animation: flipInX 1s both;
  animation-delay: 3s;
 }
 
