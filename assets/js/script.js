@@ -1,11 +1,4 @@
 
-
-$(document).ready(function(){
-     $('css selector').addClass('go-fish-logo-an');
-});
-$(document).ready(function(){
-     $('css selector').addClass('play-reel-an');
-});
 /* ========================================================================= */
 /*	Page Preloader
 /* ========================================================================= */
