@@ -12,7 +12,6 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 .js-loading *:before,
 .js-loading *:after {
   animation-play-state: paused !important;
-	 visibility: hidden;
 }
 html {
   background-color: #353b43;
@@ -71,7 +70,11 @@ pre {
   animation: fadeInUp 1s forwards;
 animation-delay: 0.7;
 }
-.go-fish-logo-an {
+
+.go-fish-logo-an::before {
+	 visibility: hidden;
+}
+.go-fish-logo-an::after {
   animation: zoomIn 1s forwards;
   animation-delay: 0.2s;
 }
