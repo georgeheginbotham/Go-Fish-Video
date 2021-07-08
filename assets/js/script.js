@@ -5,17 +5,9 @@
 
 $(window).on('load', function () {
 	$('.preloader').fadeOut(100);
-	$("body").removeClass("preload");
+	$("body").removeClass("loading");
 
 });
-
-document.body.classList.add('js-loading');
-
-window.addEventListener("load", showPage);
-
-function showPage() {
-  document.body.classList.remove('js-loading');
-}
 
 jQuery(function ($) {
 	"use strict";
