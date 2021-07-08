@@ -7,13 +7,14 @@ $(window).on('load', function () {
 	$('.preloader').fadeOut(100);
 
 });
+	$(window).load(function() {
+  $("body").removeClass("preload");
+});
 
 jQuery(function ($) {
 	"use strict";
 	
-	$(window).load(function() {
-  $("body").removeClass("preload");
-});
+
 	/* ========================================================================= */
 	/*	lazy load initialize
 	/* ========================================================================= */
