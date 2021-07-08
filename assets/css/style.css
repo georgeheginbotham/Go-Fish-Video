@@ -50,12 +50,6 @@ pre {
   Basic Setup
 ==================================================================*/
 
-.js-loading *,
-.js-loading *:before,
-.js-loading *:after {
-  animation-play-state: paused !important;
-}
-
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
@@ -95,6 +89,7 @@ animation-delay: 2;
   color: #aaa;
   font-size: 48px;
   display: none;
+	  animation-play-state: paused !important;
 }
 
 .js-loading .loading {
