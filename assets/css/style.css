@@ -15,7 +15,7 @@ html {
 body {
   background-color: #080808;
 	color:#ffffff;
- font-family: "Helvetica Neue", pier_sansregular, "pier_sansregular", sans-serif;
+ font-family: pier_sansregular, "pier_sansregular", sans-serif;
   -webkit-font-smoothing: antialiased;
     width: 100%;
 }
@@ -32,7 +32,7 @@ h6 {
 }
 
 p {
- font-family: "Helvetica Neue", sans-serif;
+ font-family: pier_sansregular, "pier_sansregular", sans-serif;
 }
 
 [scroll-behavior=smooth] {
