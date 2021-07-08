@@ -71,12 +71,11 @@ pre {
 animation-delay: 0.7;
 }
 
-.go-fish-logo-an::before {
+.go-fish-logo-an {
 	 visibility: hidden;
 }
-.go-fish-logo-an::after {
-  animation: zoomIn 1s forwards;
-  animation-delay: 0.2s;
+.go-fish-logo-an {
+  
 }
 
 .slogan-an {
