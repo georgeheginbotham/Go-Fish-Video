@@ -5,10 +5,8 @@
 
 $(window).on('load', function () {
 	$('.preloader').fadeOut(100);
+	$("body").removeClass("preload");
 
-});
-	$(window).load(function() {
-  $("body").removeClass("preload");
 });
 
 jQuery(function ($) {
