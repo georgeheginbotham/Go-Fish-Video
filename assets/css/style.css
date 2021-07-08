@@ -69,21 +69,21 @@ pre {
   background: #3b54a6;
 }
 
-.about-name:before {
-  animation: fadeInUp 1s forwards;
+.about-name {
+  animation: show-on-load fadeInUp 1s forwards;
 animation-delay: 2;
 }
 
-.go-fish-logo-an:before {
-  animation: zoomIn 1s forwards; animation-delay: 1s;
+.go-fish-logo-an {
+  animation: show-on-load zoomIn 1s forwards; animation-delay: 1s;
 }
 
 .slogan-an {
-  animation: fadeInDown 1s forwards;
+  animation: show-on-load fadeInDown 1s forwards;
   animation-delay: 2;
 }
 .play-reel-an {
-  animation: flipInX 1s forwards;
+  animation: show-on-load flipInX 1s forwards;
  animation-delay: 3s;
 }
 
