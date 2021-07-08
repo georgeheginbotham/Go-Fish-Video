@@ -74,7 +74,7 @@ pre {
 animation-delay: 2;
 }
 
-.go-fish-logo-an {
+.go-fish-logo-an:before {
   animation: zoomIn 1s forwards; animation-delay: 1s;
 }
 
