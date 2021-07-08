@@ -11,6 +11,9 @@ $(window).on('load', function () {
 jQuery(function ($) {
 	"use strict";
 	
+	$(window).load(function() {
+  $("body").removeClass("preload");
+});
 	/* ========================================================================= */
 	/*	lazy load initialize
 	/* ========================================================================= */
