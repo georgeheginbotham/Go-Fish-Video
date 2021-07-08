@@ -5,7 +5,7 @@
 
 $(window).on('load', function () {
 	$('.preloader').fadeOut(100);
-	$("body").removeClass("loading");
+	$("div").removeClass("loading");
 
 });
 
