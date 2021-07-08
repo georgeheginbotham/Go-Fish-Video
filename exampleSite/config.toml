@@ -26,6 +26,8 @@ link = "plugins/slick/slick.css"
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
 [[params.plugins.css]]
 link = "plugins/venobox/venobox.css"
+[[params.plugins.css]]
+link = "plugins/custom_font/stylesheet.css"
 
 
 # js plugins
