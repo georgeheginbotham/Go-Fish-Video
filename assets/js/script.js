@@ -1,5 +1,5 @@
  new WOW().init();
-});
+
 /* ========================================================================= */
 /*	Page Preloader
 window.addEventListener('scroll', function(e) {
@@ -9,6 +9,7 @@ window.addEventListener('scroll', function(e) {
                 $('.wow').removeAttr('style');
 
             }
+	    });
 /* ========================================================================= */
 
 $(window).on('load', function () {
