@@ -1,4 +1,8 @@
-	new WOW().init();
+if ($('.wow').hasClass('animated')) {
+            $(this).removeClass('animated');
+            $(this).removeAttr('style');
+            new WOW().init();
+}
 /* ========================================================================= */
 /*	Page Preloader
 /* ========================================================================= */
