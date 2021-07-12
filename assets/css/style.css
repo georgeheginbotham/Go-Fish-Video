@@ -79,47 +79,61 @@ animation-delay: 1.2s;
 }
 .play-reel-an {
   animation: bounceIn 0.5s both;
- animation-delay: 1.8s;
+ animation-delay: 1.6s;
 }
 
 .about-title {
   animation: fadeInDown 1s both;
- animation-delay: 0s;
+ animation-delay: 0.2s;
 }
 
 .about-text {
   animation: zoomIn 1s both;
- animation-delay: 0.5s;
+ animation-delay: 1.2s;
 }
 
 .our-process-title {
   animation: slideInRight 1s both;
- animation-delay: 0s;
+ animation-delay: 0.2s;
 }
 
 .our-process-block {
   animation: fadeInLeft 1s both;
- animation-delay: 1s;
+ animation-delay: 1.2s;
 }
 
 .our-work-title {
   animation: fadeInDown 1s both;
- animation-delay: 0s;
+ animation-delay: 0.2s;
 }
 
 .our-work-blocks {
   animation: fadeIn 1s both;
- animation-delay: 1s;
+ animation-delay: 1.2s;
 }
 
 .the-catch-title {
   animation: flipInX 1s both;
- animation-delay: 0s;
+ animation-delay: 0.2s;
 }
 
 .the-catch-text {
   animation: fadeInUp 1s both;
- animation-delay: 1s;
+ animation-delay: 1.2s;
+}
+.contact-us-title {
+  animation: fadeInDown 1s both;
+ animation-delay: 0.2s;
+}
+
+.contact-details{
+  animation: fadeInLeft 1s both;
+ animation-delay: 1.2s;
+}
+
+.contact box {
+  animation: fadeInRight 1s both;
+ animation-delay: 2.2s;
 }
 
 .loading {
