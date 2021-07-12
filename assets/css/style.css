@@ -102,6 +102,20 @@ animation-delay: 1.2s;
  animation-delay: 1s;
 }
 
+.our-work-title {
+  animation: fadeInDown 1s both;
+ animation-delay: 0s;
+}
+
+.our-work-blocks {
+  animation: fadeIn 1s both;
+ animation-delay: 1s;
+}
+
+.the catch-text {
+  animation: fadeInUp 1s both;
+ animation-delay: 1s;
+}
 
 .loading {
   position: absolute;
