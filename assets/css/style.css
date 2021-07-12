@@ -93,13 +93,13 @@ animation-delay: 1.2s;
 }
 
 .our-process-title {
-  animation: flipInX 1s both;
+  animation: slideInRight 1s both;
  animation-delay: 0s;
 }
 
 .our-process-block {
   animation: fadeInLeft 1s both;
- animation-delay: 0.3s;
+ animation-delay: 1s;
 }
 
 
