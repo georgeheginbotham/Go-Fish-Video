@@ -92,6 +92,16 @@ animation-delay: 1.2s;
  animation-delay: 0.5s;
 }
 
+.our-process-title {
+  animation: flipInX 1s both;
+ animation-delay: 0s;
+}
+
+.our-process-block {
+  animation: fadeInLeft 1s both;
+ animation-delay: 0.3s;
+}
+
 
 .loading {
   position: absolute;
