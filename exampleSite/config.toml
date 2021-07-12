@@ -54,27 +54,27 @@ link = "plugins/scroll/wow.min.js"
 
 [[Languages.en.menu.main]]
 name = "ABOUT"
-url = "#about"
+url = "#commercial-production-services"
 weight = 1
 
 [[Languages.en.menu.main]]
 name = "PROCESS"
-url = "#ourprocess"
+url = "#commercial-production-process"
 weight = 2
 
 [[Languages.en.menu.main]]
 name = "PORTFOLIO"
-url = "#portfolio"
+url = "#commercial-videos"
 weight = 3
 
 [[Languages.en.menu.main]]
 name = "TEAM"
-url = "#team"
+url = "#commercial-production-team"
 weight = 4
 
 [[Languages.en.menu.main]]
 name = "CONTACT"
-url = "#contact"
+url = "#contact-commercial-production-company"
 weight = 5
 
 ############################# Default Parameters ##########################
