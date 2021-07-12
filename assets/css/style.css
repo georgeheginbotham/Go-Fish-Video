@@ -89,7 +89,7 @@ animation-delay: 1.2s;
 
 .about-text {
   animation: zoomIn 1s both;
- animation-delay: 1s;
+ animation-delay: 0.5s;
 }
 
 
