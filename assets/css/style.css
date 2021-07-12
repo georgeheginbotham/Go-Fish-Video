@@ -79,7 +79,7 @@ animation-delay: 1.2s;
 }
 .play-reel-an {
   animation: bounceIn 0.5s both;
- animation-delay: 1.6s;
+ animation-delay: 1.9s;
 }
 
 .about-title {
@@ -128,12 +128,12 @@ animation-delay: 1.2s;
 
 .contact-details{
   animation: fadeInLeft 1s both;
- animation-delay: 1.2s;
+ animation-delay: 1s;
 }
 
 .contact-box {
   animation: fadeInRight 1s both;
- animation-delay: 2.2s;
+ animation-delay: 2s;
 }
 
 .loading {
