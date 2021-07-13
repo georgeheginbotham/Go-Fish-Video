@@ -88,7 +88,7 @@ animation-delay: 1.2s;
 }
 
 .about-text {
-  animation: zoomIn 1s both;
+  animation: fadeInDown 1s both;
  animation-delay: 1.2s;
 }
 
@@ -98,7 +98,7 @@ animation-delay: 1.2s;
 }
 
 .our-process-block {
-  animation: fadeInLeft 1s both;
+  animation: fadeInDown 1s both;
  animation-delay: 1.2s;
 }
 
@@ -108,7 +108,7 @@ animation-delay: 1.2s;
 }
 
 .our-work-blocks {
-  animation: fadeIn 1s both;
+  animation: fadeInDown 1s both;
  animation-delay: 1.2s;
 }
 
@@ -118,7 +118,7 @@ animation-delay: 1.2s;
 }
 
 .the-catch-text {
-  animation: fadeInUp 1s both;
+  animation: fadeInDown 1s both;
  animation-delay: 1.2s;
 }
 .contact-us-title {
