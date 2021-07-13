@@ -93,7 +93,7 @@ animation-delay: 1.2s;
 }
 
 .about-text {
-  animation: fadeInDown 1s both;
+  animation: fadeIn 1s both;
  animation-delay: 1.2s;
 }
 
