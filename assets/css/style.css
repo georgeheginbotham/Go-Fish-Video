@@ -87,6 +87,11 @@ animation-delay: 1.2s;
  animation-delay: 0.2s;
 }
 
+.title-section {
+  animation: fadeInDown 1s both;
+ animation-delay: 0.2s;
+}
+
 .about-text {
   animation: fadeInDown 1s both;
  animation-delay: 1.2s;
