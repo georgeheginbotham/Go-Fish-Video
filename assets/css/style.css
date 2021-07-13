@@ -113,7 +113,7 @@ animation-delay: 1.2s;
 }
 
 .our-work-blocks {
-  animation: fadeInDown 1s both;
+  animation: fadeIn 1s both;
  animation-delay: 1.2s;
 }
 
