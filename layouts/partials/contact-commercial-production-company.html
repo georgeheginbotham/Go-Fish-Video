@@ -34,22 +34,22 @@
 			{{"<!-- Contact Form -->" | safeHTML}}
 			{{ if .contact_form.enable }}
 			{{ with .contact_form }}
-			<div class="col-lg-6">
+			<div class="col-lg-6 wow contact-box">
 				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action }}" role="form">
-					<div class="form-group  wow contact-box">
+					<div class="form-group">
 						<input type="text" placeholder="{{ .name }}" class="form-control" name="name" id="name">
 					</div>
-					<div class="form-group  wow contact-box">
+					<div class="form-group">
 						<input type="email" placeholder="{{ .email }}" class="form-control" name="email" id="email">
 					</div>
-					<div class="form-group  wow contact-box">
+					<div class="form-group">
 						<input type="text" placeholder="{{ .subject }}" class="form-control" name="subject" id="subject">
 					</div>
-					<div class="form-group  wow contact-box">
+					<div class="form-group">
 						<textarea rows="6" placeholder="{{ .message }}" class="form-control" name="message" id="message"></textarea>
 					</div>
 					<div id="cf-submit">
-						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block wow contact-button-an"
+						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block contact-button-an"
 							value="{{ .submit }}" style="color:#000;">{{ .submit }}</button>
 					</div>
 				</form>
