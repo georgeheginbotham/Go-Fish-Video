@@ -73,7 +73,7 @@ animation-delay: 1.2s;
   animation-delay: 0.2s;
 }
 
-.thec-catch-img {
+.the-catch-img {
   animation: zoomIn 1s both;
   animation-delay: 0.2s;
 }
@@ -148,7 +148,7 @@ animation-delay: 1.2s;
 
 .contact-button-an {
   animation: bounceIn 0.5s both;
- animation-delay: 2.2s;
+ animation-delay: 2s;
 }
 
 .loading {
