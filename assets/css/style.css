@@ -148,7 +148,7 @@ animation-delay: 1.2s;
 
 .contact-button-an {
   animation: bounceIn 0.5s both;
- animation-delay: 2s;
+ animation-delay: 0s;
 }
 
 .loading {
