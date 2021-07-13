@@ -103,7 +103,7 @@ animation-delay: 1.2s;
 }
 
 .our-process-block {
-  animation: fadeInDown 1s both;
+  animation: fadeInUp 1s both;
  animation-delay: 1s;
 }
 
@@ -123,7 +123,7 @@ animation-delay: 1.2s;
 }
 
 .the-catch-text {
-  animation: fadeInDown 1s both;
+  animation: fadeInUp 1s both;
  animation-delay: 1s;
 }
 .contact-us-title {
