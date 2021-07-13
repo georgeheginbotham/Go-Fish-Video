@@ -20,9 +20,9 @@
 		<div class="row shuffle-wrapper justify-content-center">
 			{{"<!-- portfolio item -->" | safeHTML}}
 			{{ range .portfolio_item }}
-			<div class="col-lg-4 col-md-6 shuffle-item">
+			<div class="col-lg-4 col-md-6 shuffle-item  wow our-work-blocks">
 
-				<div class="portfolio-block mb-4 wow our-work-blocks">
+				<div class="portfolio-block mb-4">
 					<img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 					<div class="caption">
 						<a href="{{ .link | safeURL }}">
