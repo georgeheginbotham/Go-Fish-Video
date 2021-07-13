@@ -93,7 +93,7 @@ animation-delay: 1.2s;
 }
 
 .about-text {
-  animation: fadeInUp 1s both;
+  animation: fadeIn 1s both;
  animation-delay: 1s;
 }
 
@@ -123,7 +123,7 @@ animation-delay: 1.2s;
 }
 
 .the-catch-text {
-  animation: fadeInUp 1s both;
+  animation: fadeIn 1s both;
  animation-delay: 1s;
 }
 .contact-us-title {
@@ -139,6 +139,11 @@ animation-delay: 1.2s;
 .contact-box {
   animation: fadeInRight 1s both;
  animation-delay: 2s;
+}
+
+.contact-button-an {
+  animation: bounceIn 0.5s both;
+ animation-delay: 2.2s;
 }
 
 .loading {
