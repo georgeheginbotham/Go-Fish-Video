@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://gofishvideo.com"
-title = "Go Fish Video"
+title = "Go Fish Video | Promotional Video Production"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
@@ -76,7 +76,7 @@ weight = 4
 [params]
 logo = "images/Go-Fish-Video-Logo.png"
 # Meta data
-description = "We create stunning commericals for products and brands."
+description = "We turn ideas into commercial selling masterpieces. Grow brand awareness, gain exposure and ensure ROI."
 author = "Themefisher"
 # Google Analytics
 google_analytics_id = "UA-199993510-1" # Your ID
