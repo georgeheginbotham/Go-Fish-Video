@@ -72,11 +72,6 @@ name = "TEAM"
 url = "#commercial-production-team"
 weight = 4
 
-[[Languages.en.menu.main]]
-name = "CONTACT"
-url = "#contact-commercial-production-company"
-weight = 5
-
 ############################# Default Parameters ##########################
 [params]
 logo = "images/Go-Fish-Video-Logo.png"
