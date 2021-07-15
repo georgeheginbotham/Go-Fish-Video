@@ -3,8 +3,8 @@ about:
   enable : true
   image : images/about/Go-Fish-Video-Production.jpg
   image_webp : images/about/Go-Fish-Video-Production.webp
-  title : Promotional Video Production
-  content : "We create promotional videos for products and brands. From scriptwriting to special effects, we'll work diligently in turning your vision into a commercial selling masterpiece!"
+  title : Commercial Production Company
+  content : "We create commercials for products and brands. From scriptwriting to special effects, we'll work diligently in turning your vision into a commercial selling masterpiece!"
   feature_item : 
       # feature item loop
     - title : Conceptualize
