@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://gofishvideo.com"
-title = "Go Fish Video - Promotional Video Production"
+title = "Go Fish Video - Commercial Production Company"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
