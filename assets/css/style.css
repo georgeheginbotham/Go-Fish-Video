@@ -37,6 +37,11 @@ p {
  font-family: "pier_sansregular", sans-serif;
 }
 
+b
+{
+ font-family: "piersans-bold", sans-serif;
+}
+
 [scroll-behavior=smooth] {
   scroll-behavior: smooth;
 }
