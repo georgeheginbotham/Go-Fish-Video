@@ -3,8 +3,8 @@ about:
   enable : true
   image : images/about/Go-Fish-Video-Production.jpg
   image_webp : images/about/Go-Fish-Video-Production.webp
-  title : Commercial Production Company
-  content : "We create commercial videos for products and brands."
+  title : Commercial Production Company Based In Los Angeles
+  content : "We're a full-service commercial video production company, which means we have the know-how and tools to handle your project from start to finish. From scriptwriting to special effects, we'll work diligently in turning your vision into a commercial selling masterpiece!"
   feature_item : 
       # feature item loop
     - title : Conceptualize
