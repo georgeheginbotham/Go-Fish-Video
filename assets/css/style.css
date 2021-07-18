@@ -2354,9 +2354,8 @@ figcaption {
 }
 
 .pagination .page-item.active .page-link {
-  background: #57cbcc;
+  background: transparent;
   color: #fff;
-  border-color: #57cbcc;
 }
 
 #select-language {
