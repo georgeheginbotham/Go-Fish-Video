@@ -15,7 +15,7 @@ sections:
 - type: heading
   label: Portfolio
 - type: directory
-  path: exampleSite/content/english/portfolio
+  path: exampleSite/content/english/commercial-vidoes
   label: Post (en)
   create: documents
   match: "**/*"
