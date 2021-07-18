@@ -9,7 +9,7 @@ portfolio:
       image_webp : images/portfolio/Versa-Desk.webp
       categories : ["commericals"]
       content : Sit Happens
-      link : "/portfolio/versa-desk-commerical"
+      link : "/commercial-videos/versa-desk-commercial"
       
     # portfolio item loop
     - name : Neo Volta
@@ -17,7 +17,7 @@ portfolio:
       image_webp : images/portfolio/Neo-Volta.webp
       categories : ["commericals"]
       content : Power Your Life
-      link : "/portfolio/neo-volta-commerical"
+      link : "/commercial-videos/neo-volta-commercial"
       
     # portfolio item loop
     - name : Morongo Pink Coffee
@@ -25,7 +25,7 @@ portfolio:
       image_webp : images/portfolio/Morongo-Pink-Coffee.webp
       categories : ["commericals"]
       content : Morongo Resort & Casino
-      link : "/portfolio/morongo-pink-coffee-commerical"
+      link : "/commercial-videos/morongo-pink-coffee-commercial"
       
     # portfolio item loop
     - name : Kimberly Parry Organics
@@ -33,7 +33,7 @@ portfolio:
       image_webp : images/portfolio/Kimberly-Parry-Organics.webp
       categories : ["commericals"]
       content : Beauty is Organic
-      link : "/portfolio/kimberly-parry-organics-commerical"
+      link : "/commercial-videos/kimberly-parry-organics-commercial"
       
     # portfolio item loop
     - name : Eternal Kings
@@ -41,7 +41,7 @@ portfolio:
       image_webp : images/portfolio/Eternal-Kings.webp
       categories : ["commericals"]
       content : Promotional Video 
-      link : "/portfolio/eternal-kings-commerical"
+      link : "/commercial-videos/eternal-kings-commercial"
       
     # portfolio item loop
     - name : Caesarstone
@@ -49,7 +49,7 @@ portfolio:
       image_webp : images/portfolio/Caesarstone.webp
       categories : ["commericals"]
       content : Living with my Caesarstone
-      link : "/portfolio/caesarstone-commerical"
+      link : "/commercial-videos/caesarstone-commercial"
       
     # portfolio item loop
     - name : Quanta
@@ -57,7 +57,7 @@ portfolio:
       image_webp : images/portfolio/Quanta.webp
       categories : ["commericals"]
       content : Couples Therapy
-      link : "/portfolio/quanta-commerical"
+      link : "/commercial-videos/quanta-commercial"
       
     # portfolio item loop
     - name : Eurocuisine
@@ -65,7 +65,7 @@ portfolio:
       image_webp : images/portfolio/Eurocuisine.webp
       categories : ["commericals"]
       content : Dear Mom
-      link : "/portfolio/eurocuisine-commerical"
+      link : "/commercial-videos/eurocuisine-commercial"
       
     # portfolio item loop
     - name : Triad Pro Innovators
@@ -73,7 +73,7 @@ portfolio:
       image_webp : images/portfolio/Triad-Pro-Innovators.webp
       categories : ["commericals"]
       content : Our Today is your Tomorrow
-      link : "/portfolio/triad-pro-innovators-commerical"
+      link : "/commercial-videos/triad-pro-innovators-commercial"
       
           # portfolio item loop
     - name : Blue Can Water
@@ -81,7 +81,7 @@ portfolio:
       image_webp : images/portfolio/Blue-Can-Water.webp
       categories : ["commericals"]
       content : It's an Emergency
-      link : "/portfolio/blue-can-water-commerical"
+      link : "/commercial-videos/blue-can-water-commercial"
       
           # portfolio item loop
     - name : Marriott Wailea
@@ -89,7 +89,7 @@ portfolio:
       image_webp : images/portfolio/Marriott-Wailea.webp
       categories : ["commericals"]
       content : Stay in Paradise
-      link : "/portfolio/marriott-wailea-commerical"
+      link : "/commercial-videos/marriott-wailea-commercial"
       
           # portfolio item loop
     - name : YouLab
@@ -97,4 +97,4 @@ portfolio:
       image_webp : images/portfolio/YouLab.webp
       categories : ["commericals"]
       content : Ageless Living
-      link : "/portfolio/youlab-commerical"
+      link : "/commercial-videos/youlab-commercial"
