@@ -11,7 +11,7 @@
 		<p style="margin-top: 10px" class="slogan-an wow"><b>{{ .content | markdownify }}</b></p>
 		{{ if .button.enable }}
 		{{ with .button }}
-		<a class="play-reel-an venobox btn btn-transparent page-scroll" data-autoplay="true" data-vbtype="video" href="{{ .link | safeURL }}">{{ .label }}</a>
+		<a class="play-reel-an btn btn-transparent page-scroll" href="{{ .link | safeURL }}">{{ .label }}</a>
 		{{ end }}
 		{{ end }}
 	</div>
