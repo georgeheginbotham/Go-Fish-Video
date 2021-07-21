@@ -114,6 +114,10 @@ link = "https://www.youtube.com/channel/UCbYnEiiM28naaL2924C2J6A"
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.linkedin.com/company/go-fish-video/"
 
+[[params.social]]
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.instagram.com/gofishvideo/"
+
 
 ################################ English Language ########################
 [Languages.en]
