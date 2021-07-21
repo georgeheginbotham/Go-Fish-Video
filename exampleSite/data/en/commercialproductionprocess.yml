@@ -1,7 +1,7 @@
 ############################# Our Process ###################################
 ourprocess:
   enable : true
-  title : Our Process
+  title : Video Creation Process
   process_item :
   - icon : ti-control-stop-red # themify icon pack : https://themify.me/themify-icons
     title : Conceptualize
