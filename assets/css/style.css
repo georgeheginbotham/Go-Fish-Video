@@ -59,7 +59,7 @@ pre {
 
 .about-name {
   animation: fadeInUp 1s both;
-animation-delay: 1.2s;
+animation-delay: 0.8s;
 }
 
 .go-fish-logo-an {
@@ -74,7 +74,7 @@ animation-delay: 1.2s;
 
 .slogan-an {
   animation: fadeInDown 1s both;
-  animation-delay: 1.2s;
+  animation-delay: 0.8s;
 }
 .play-reel-an {
   animation: bounceIn 0.5s both;
