@@ -132,3 +132,8 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 copyright = "Copyright &copy; 2021 Go Fish Video"
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
